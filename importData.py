@@ -9,7 +9,7 @@ import os
 import pandas
 
 
-def getData( dataDirectory):
+def getData(dataDirectory):
     os.chdir(dataDirectory)
 
     fileList = os.listdir(dataDirectory)
@@ -36,9 +36,3 @@ def getData( dataDirectory):
     
     
     return master;
-
-
-frizData = getData('C:\\Users\\Steve\\Documents\\Dropbox\\Penn Post Doc\\Frisbee_Ref_Frames\\data\\batch1\\friz_clean')
-    
-navData = getData('C:\\Users\\Steve\\Documents\\Dropbox\\Penn Post Doc\\Frisbee_Ref_Frames\\data\\batch1\\nav_clean')
-
