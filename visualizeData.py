@@ -12,6 +12,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 import seaborn as sns
 from importData import getData
+import pandas as pd
 import statsmodels.api as sm
 import statsmodels.formula.api as smf
 
@@ -20,10 +21,15 @@ frizData = getData('C:\\Users\\stweis\\Dropbox\\Penn Post Doc\\Frisbee_Ref_Frame
     
 navData = getData('C:\\Users\\stweis\\Dropbox\\Penn Post Doc\\Frisbee_Ref_Frames\\data\\batch1\\nav_clean')
 
-# <codecell>
+additionalData = pd.read_excel('C:\\Users\\stweis\\Dropbox\\Penn Post Doc\\Frisbee_Ref_Frames\\data\\batch1\\qualtrics_cleaned_for_data_merging.xlsx')
+additionalData = additionalData.drop([0])
+additionalData = additionalData.replace("""7\n(Strongly Agree)\n""",7)
+additionalData = additionalData.replace("""1\n(Strongly Disagree)\n""",1)
+additionalData['participant'] = additionalData['psychopycode']
+
 
 def removeHighRTs(dv,data):
-    rtThresh = 2*np.std(data[dv])
+    rtThresh = 3*np.std(data[dv])
     rtMean = np.mean(data[dv])
     dataThresh = data.loc[data[dv] < (rtMean + rtThresh)]
     dataThresh = dataThresh.loc[dataThresh[dv] > 0]
@@ -59,9 +65,9 @@ def renameFactorLevels(data,friz_or_nav):
 
 def newFactorPrompts(row):
     if row['prompt1'] == 'Home' or row['prompt1'] == 'Away':
-        return 'abs'
+        return 'absol'
     else:
-        return 'rel'
+        return 'rela'
     
 def newFactorStims(row):
     if row['stim1'] == 'near_right' or row['stim1'] == 'near_left':
@@ -89,13 +95,16 @@ data = frizDataThresh.append(navDataThresh)
 data = removeWrongAnswers('Trials_responsecorr',data)
 
 unthreshed_data = frizData.append(navData)
+
+#data.to_csv('C:\\Users\\stweis\\Documents\\Github\\Ultimate\\data_for_R.csv')
 # <codecell>
-sns.boxplot(x='prompt1',y='Trials_responsert',data=data)
+sns.boxplot(frizDataThresh.Trials_responsecorr)
+sns.boxplot(navDataThresh.Trials_responsecorr)
 plt.show()
 
 # <codecell>
 sns.set_style('ticks')
-ax = sns.factorplot(x = "promptType", y = "Trials_responsert", data = data, hue = "stimLoc", palette=['red','blue'],
+ax = sns.factorplot(x = "promptType", y = "Trials_responsert", data = data, hue = "stimLoc",palette=['red','blue'],
                     kind = "point", size = 8,col='condition')
 
 
@@ -111,6 +120,33 @@ ax = sns.factorplot(x = "prompt1", y = "Trials_responsert", data = unthreshed_da
                     kind = "point", size = 8, order=factor_order,col='Trials_responsecorr')
 
 # <codecell>
+
+a = data.groupby(['participant','condition','promptType'])
+
+b = a.Trials_responsert.mean().unstack().rela - a.Trials_responsert.mean().unstack().absol
+
+
+friz = []
+nav = []
+
+for i in range(len(b)):
+    if i%2 == 0:
+        friz.append(b[i])    
+    else:
+        nav.append(b[i])
+
+
+
+rtDataFrame = pd.DataFrame(
+    {'nav': nav,
+     'friz': friz,
+     })
+
+
+
+
+
+
 
 
 
