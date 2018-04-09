@@ -40,6 +40,7 @@ def removeWrongAnswers(dv,data):
     return dataCorrect
 
 
+
 def renameFactorLevels(data,friz_or_nav):
         
     data['condition'] = friz_or_nav
@@ -268,3 +269,5 @@ for i,j in enumerate(h):
 fig,ax = plt.subplots(figsize=(12,8))
 lm = sm.OLS(pivoted['Nav_Rel_minus_Abs_Near'], pivoted['Nav_Rel_minus_Abs_Far']).fit()
 fig = sm.graphics.influence_plot(lm,alpha=0.001,ax=ax,criterion="cooks")
+
+
