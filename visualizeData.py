@@ -154,7 +154,7 @@ merged = merged.merge(grandmean,on='participant')
 nonaPivoted = pivoted.dropna()
 ax1 = sns.distplot(nonaPivoted['Nav_Rel_minus_Abs'],label='Navigation')
 sns.distplot(nonaPivoted['Frisbee_Rel_minus_Abs'],label='Frisbee')
-ax1.set(xlabel='Difference between Relative and Absolute Prompts',ylabel='Frequency')
+ax1.set(xlabel='Difference between Relative and Absolute Prompts (Left = ',ylabel='Frequency')
 plt.legend()
 plt.show()
 
@@ -270,4 +270,10 @@ fig,ax = plt.subplots(figsize=(12,8))
 lm = sm.OLS(pivoted['Nav_Rel_minus_Abs_Near'], pivoted['Nav_Rel_minus_Abs_Far']).fit()
 fig = sm.graphics.influence_plot(lm,alpha=0.001,ax=ax,criterion="cooks")
 
-
+# <codecell>
+pivoted.set_index('participant')
+pivoted.sort_index(inplace=True)
+allpivots = pd.merge(pivotedAllFour,pivoted,right_index=True,left_index=True)
+mi = allpivots.columns
+ind = pd.Index([e[0] + e[1] for e in mi.tolist()])
+allpivots.columns = ind
