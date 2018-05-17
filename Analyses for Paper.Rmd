@@ -1,0 +1,55 @@
+---
+title: "Ultimate Reference Frames Analysis"
+output: html_notebook
+---
+
+Here we'll import data from the python Jupyter notebook, and run a few stats that are easier here than in Python.
+
+
+```{r}
+library(ez)
+dataForCorr <- read.csv('dataForCorr_for_R.csv')
+dataForRT <- read.csv('dataForRT_for_R.csv')
+```
+
+Now, let's look at an ANOVA for correct answer by condition and stimulus location (which is the location of the
+person on the stimulus). 
+
+```{r}
+CorrAnova <- ezANOVA(data=dataForCorr,
+                   dv=Trials_responsecorr,
+                   wid=participant,
+                   within=c(stimLoc,condition,promptType),
+                   return_aov=TRUE)
+ezStats(data=dataForCorr, dv=Trials_responsecorr,wid=participant,within=c(condition,promptType,stimLoc))
+#Signicant effect of condition, and interaction 
+print(CorrAnova$ANOVA)
+```
+
+
+We will also look at the answers after they have been corrected for 'flippers'
+
+```{r}
+NewCorrAnova <- ezANOVA(data=dataForCorr, 
+                   dv=newCorrect,
+                   wid=participant,
+                   within=c(stimLoc,condition),
+                   return_aov=TRUE)
+#Signicant effect of condition, and interaction 
+ezStats(data=dataForCorr, dv=newCorrect,wid=participant,within=c(stimLoc,condition))
+print(NewCorrAnova$ANOVA)
+```
+
+Now we'll take a look at reaction times. 
+
+```{r}
+
+
+RTAnova <- ezANOVA(data=dataForRT, dv=Trials_responsert,wid=participant,within=c(stimLoc,condition,promptType),
+                   return_aov=TRUE)
+
+
+ezStats(data=dataForRT, dv=Trials_responsert,wid=participant,within=c(stimLoc,condition,promptType))
+print(RTAnova$ANOVA)
+```
+
