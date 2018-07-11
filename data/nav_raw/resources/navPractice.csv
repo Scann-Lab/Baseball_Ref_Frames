@@ -1,0 +1,9 @@
+stim,prompt,answer
+navFarLeft.jpg,Go right.,left
+navNearLeft.jpg,Go away.,right
+navFarRight.jpg,Go left.,right
+navNearRight.jpg,Go home. ,right
+navNearLeft.jpg,Go left.,left
+navNearRight.jpg,Go home.,right
+navNearLeft.jpg,Go away.,right
+navFarLeft.jpg,Go right.,left

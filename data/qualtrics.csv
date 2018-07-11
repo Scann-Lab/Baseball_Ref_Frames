@@ -1,0 +1,563 @@
+StartDate,EndDate,Status,IPAddress,Progress,Duration (in seconds),Finished,RecordedDate,ResponseId,RecipientLastName,RecipientFirstName,RecipientEmail,ExternalReference,LocationLatitude,LocationLongitude,DistributionChannel,UserLanguage,Q50_Browser,Q50_Version,Q50_Operating System,Q50_Resolution,Q11,Q12,Q13,Q14,Q17,Q18,Q18_6_TEXT,Q19,Q19_4_TEXT,Q20,Q20_8_TEXT,SBSOD 1,SBSOD 2,SBSOD 3,SBSOD 4,SBSOD 5,SBSOD 6,SBSOD 7,SBSOD 8,SBSOD 9,SBSOD 10,SBSOD 11,SBSOD 12,SBSOD 13,SBSOD 14,SBSOD 15,UF - How long played_1,UF - how many years_1,UF - highest level,UF - best match skil,UF - taught/coached,Q40,"UF - throws B/h, F/h_1","UF - throws B/h, F/h_2",Q41,UF - Force?,UF - Home/Away,UF - Flick/Backhand,Q47,Q55,Q42,Q45,Q60,Q61,Q51,Q52,Q54,Q53,confirmationcode,psychopycode,whichFirst
+Start Date,End Date,Response Type,IP Address,Progress,Duration (in seconds),Finished,Recorded Date,Response ID,Recipient Last Name,Recipient First Name,Recipient Email,External Data Reference,Location Latitude,Location Longitude,Distribution Channel,User Language,Browser Meta Info - Browser,Browser Meta Info - Version,Browser Meta Info - Operating System,Browser Meta Info - Resolution,What is your age?,"How many years of education have you completed? 
+ 
+
+Completing high school is equivalent to 12 years of education (e.g., an undergraduate student will have completed 14 years of education by the end of their second year at college / university).",Is English your first language?,Do you normally write with your right hand?,What sex were you assigned at birth?,What is your gender identity? - Selected Choice,What is your gender identity? - Other (please specify) - Text,What is your sexual orientation? - Selected Choice,What is your sexual orientation? - Other (please specify) - Text,What is your race / ethnicity? - Selected Choice,What is your race / ethnicity? - Other (please specify) - Text,I am very good at giving directions.,I have a poor memory for where I left things.,I am very good at judging distances.,"My ""sense of direction"" is very good.","I tend to think of my environment in terms of cardinal directions (N, S, E, W).",I very easily get lost in a new city.,I enjoy reading maps.,I have trouble understanding directions.,I am very good at reading maps.,I don't remember routes very well while riding as a passenger in a car.,I don't enjoy giving directions.,It's not important to me to know where I am.,I usually let someone else do the navigational planning for long trips.,I can usually remember a new route after I have traveled it only once.,"I don't have a very good ""mental map"" of my environment.",How many years ago did you start playing ultimate frisbee? - Years,How many years have you played ultimate frisbee for (at least 1 season per year)? - Years,"During that time, what levels of ultimate have you played? (Check all that apply)","What level of play best matches your skill level (it's a challenge, but you can contribute to a team)? PADA players can name the league (FPSL, UHLE, spring league, etc.), other players just describe the level with as much detail as possible.",Have you ever taught or coached ultimate frisbee? (Check all that apply),What is your preferred offensive position?,What is your throwing range? - Backhand,What is your throwing range? - Forehand,What is your preferred defensive position in a zone?,"Do you know what a Force is, in ultimate frisbee lingo?","How comfortable are you with knowing what ""Force Home"" and ""Force Away"" mean?","How comfortable are you with knowing what ""Force Backhand"" and ""Force Forehand (Flick)"" mean?",What hand do you prefer to throw a frisbee with?,"If you had to choose, how would you prefer that the force be called?","Great! You're finished with part 1! 
+
+
+
+BEFORE YOU BEGIN PART 2: YOU MUST LEAVE THIS WINDOW OPEN, OR YOU WILL HAVE TO RE-TAKE THE SURVEY.
+
+
+
+For the next two parts, you will need your Participant ID: [Field-psychopycode].
+
+Write it down, and then read the rest of the instructions. 
+
+
+
+When you're ready for Part 2, click the link below to open it in a new tab. You'll need to enter your Participant ID number ([Field-psychopycode]) into ""Participant ID"" on the link below.
+
+
+
+Part 2 should take between 5-10 minutes.
+ 
+
+Click here to begin Part 2 in a new tab.
+
+
+
+ 
+At the end of Part 2, you will get a code. Enter that code in below to continue.","Great! You're finished with part 2! One left. 
+
+
+If you haven't already, please go back to the last site and press SPACE to see the completion message.
+
+
+
+As a reminder, BEFORE YOU BEGIN PART 3: YOU MUST LEAVE THIS WINDOW OPEN, OR YOU WILL HAVE TO RE-TAKE THE SURVEY.
+
+
+
+For the next part, you will need your Participant ID again: [Field-psychopycode].
+
+
+
+When you're ready for Part 2, click the link below to open it in a new tab. You'll need to enter your Participant ID number ([Field-psychopycode]) into ""Participant ID"" on the link below.
+
+
+
+Part 3 should take between 5-10 minutes.
+
+ 
+
+Click here to begin Part 3 in a new tab.
+
+
+
+ 
+At the end of Part 3, you will get a code. Enter that code in below to continue.","Great! You're finished with part 1! 
+
+
+
+BEFORE YOU BEGIN PART 2: YOU MUST LEAVE THIS WINDOW OPEN, OR YOU WILL HAVE TO RE-TAKE THE SURVEY.
+
+
+
+For the next two parts, you will need your Participant ID: [Field-psychopycode].
+
+Write it down, and then read the rest of the instructions. 
+
+
+
+When you're ready for Part 2, click the link below to open it in a new tab. You'll need to enter your Participant ID number ([Field-psychopycode]) into ""Participant ID"" on the link below.
+ 
+
+Part 2 should take between 5-10 minutes.
+
+
+Click here to begin Part 2 in a new tab.
+
+
+
+ 
+At the end of Part 2, you will get a code. Enter that code in below to continue.","Great! You're finished with part 2! One left. 
+
+
+If you haven't already, please go back to the last site and press SPACE to see the completion message.
+
+
+
+As a reminder, BEFORE YOU BEGIN PART 3: YOU MUST LEAVE THIS WINDOW OPEN, OR YOU WILL HAVE TO RE-TAKE THE SURVEY.
+
+
+
+For the next part, you will need your Participant ID again: [Field-psychopycode].
+
+
+
+When you're ready for Part 2, click the link below to open it in a new tab. You'll need to enter your Participant ID number ([Field-psychopycode]) into ""Participant ID"" on the link below.
+
+
+
+Part 3 should take between 5-10 minutes.
+
+
+Click here to begin Part 3 in a new tab.
+
+
+
+ 
+At the end of Part 3, you will get a code. Enter that code in below to continue.",How did you answer the questions from the Ultimate Frisbee task? Did you find anything particularly difficult about them?,How did you answer the questions from the Road Intersection task? Did you find anything particularly difficult about them?,Did you have any technical difficulties along the way?,Anything else you want to mention?,confirmationcode,psychopycode,whichFirst
+"{""ImportId"":""startDate"",""timeZone"":""America/New_York""}","{""ImportId"":""endDate"",""timeZone"":""America/New_York""}","{""ImportId"":""status""}","{""ImportId"":""ipAddress""}","{""ImportId"":""progress""}","{""ImportId"":""duration""}","{""ImportId"":""finished""}","{""ImportId"":""recordedDate"",""timeZone"":""America/New_York""}","{""ImportId"":""_recordId""}","{""ImportId"":""recipientLastName""}","{""ImportId"":""recipientFirstName""}","{""ImportId"":""recipientEmail""}","{""ImportId"":""externalDataReference""}","{""ImportId"":""locationLatitude""}","{""ImportId"":""locationLongitude""}","{""ImportId"":""distributionChannel""}","{""ImportId"":""userLanguage""}","{""ImportId"":""QID66_BROWSER""}","{""ImportId"":""QID66_VERSION""}","{""ImportId"":""QID66_OS""}","{""ImportId"":""QID66_RESOLUTION""}","{""ImportId"":""QID11_TEXT""}","{""ImportId"":""QID12_TEXT""}","{""ImportId"":""QID13""}","{""ImportId"":""QID14""}","{""ImportId"":""QID17""}","{""ImportId"":""QID18""}","{""ImportId"":""QID18_6_TEXT""}","{""ImportId"":""QID19""}","{""ImportId"":""QID19_4_TEXT""}","{""ImportId"":""QID20""}","{""ImportId"":""QID20_8_TEXT""}","{""ImportId"":""QID23""}","{""ImportId"":""QID24""}","{""ImportId"":""QID25""}","{""ImportId"":""QID26""}","{""ImportId"":""QID27""}","{""ImportId"":""QID29""}","{""ImportId"":""QID30""}","{""ImportId"":""QID31""}","{""ImportId"":""QID32""}","{""ImportId"":""QID33""}","{""ImportId"":""QID34""}","{""ImportId"":""QID35""}","{""ImportId"":""QID36""}","{""ImportId"":""QID37""}","{""ImportId"":""QID38""}","{""ImportId"":""QID41_1""}","{""ImportId"":""QID43_1""}","{""ImportId"":""QID44""}","{""ImportId"":""QID46_TEXT""}","{""ImportId"":""QID45""}","{""ImportId"":""QID52""}","{""ImportId"":""QID47_1""}","{""ImportId"":""QID47_2""}","{""ImportId"":""QID53""}","{""ImportId"":""QID40""}","{""ImportId"":""QID49""}","{""ImportId"":""QID50""}","{""ImportId"":""QID63""}","{""ImportId"":""QID71""}","{""ImportId"":""QID54_TEXT""}","{""ImportId"":""QID57_TEXT""}","{""ImportId"":""QID60_TEXT""}","{""ImportId"":""QID61_TEXT""}","{""ImportId"":""QID67_TEXT""}","{""ImportId"":""QID68_TEXT""}","{""ImportId"":""QID70_TEXT""}","{""ImportId"":""QID69_TEXT""}","{""ImportId"":""confirmationcode""}","{""ImportId"":""psychopycode""}","{""ImportId"":""whichFirst""}"
+7/26/2017 12:18,7/26/2017 12:19,Survey Preview,,100,55,TRUE,7/26/2017 12:19,R_2BbQuuRk1lLVotG,,,,,39.95970154,-75.19680023,preview,EN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1203269,
+7/26/2017 12:57,7/26/2017 13:04,Survey Preview,,100,419,TRUE,7/26/2017 13:04,R_1LiNbBXFn1Jm4YB,,,,,40.04910278,-75.22810364,preview,EN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,53677196,
+7/26/2017 13:15,7/26/2017 13:17,Survey Preview,,100,94,TRUE,7/26/2017 13:17,R_1DRXvlmD8BsewaY,,,,,39.95970154,-75.19680023,preview,EN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,9,14,,,,,5-10 yards,Always a struggle,,Definitely yes,Extremely comfortable,Extremely comfortable,,,,,,,,,,,,67790503,
+7/27/2017 12:12,7/27/2017 12:13,IP Address,128.91.12.234,100,74,TRUE,7/27/2017 12:13,R_2AZSjAMCt4QjfsB,,,,,39.95970154,-75.19680023,anonymous,EN,,,,,11,23,english,right,male,man,,homosexual,,amer-indian,,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,4,7,"I've played ultimate frisbee in casual settings, but never on an organized team.",sdf,Informally to teammates during timeouts or on the sidelines.,Cutter,Always a struggle,5-10 yards,Wing,Definitely yes,Slightly comfortable,Neither comfortable nor uncomfortable,,,,,,,,,,,,14610462,
+7/28/2017 21:16,7/28/2017 21:23,IP Address,76.98.72.235,100,391,TRUE,7/28/2017 21:23,R_1nOzEGziIRYYkIn,,,,,40.04910278,-75.22810364,anonymous,EN,,,,,23,22,english,right,female,transgender man,,homosexual,,black/afri-amer,,4,3,4,5,5,4,3,4,4,5,3,3,2,2,3,8,8,I've played in a competitive recreational league.,Ree,Informally to teammates during timeouts or on the sidelines.,Handler,20-40 yards,5-10 yards,Short Deep,Probably yes,Slightly comfortable,Moderately comfortable,,,frizstudy9017,navstudy4017,,,,,,,,13133994,1
+8/3/2017 16:56,8/3/2017 17:28,IP Address,76.98.72.235,100,1904,TRUE,8/3/2017 17:28,R_3iQlnUVcQOn8HaC,,,,,40.04910278,-75.22810364,anonymous,EN,,,,,34,21,english,right,female,woman,,heterosexual,,white,,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,10,10,"I've played ultimate frisbee in casual settings, but never on an organized team.,I've played recreationally (pickup, with friends, at camp).,I've played in learning settings (clinics, learning leagues),I've played in a casual recreational but organized league.,I've played in a competitive recreational league.",FPSL,"Informally to teammates during timeouts or on the sidelines.,I've captained a recreational team.",Cutter,10-20 yards,10-20 yards,Wing,Definitely yes,Extremely comfortable,Extremely comfortable,Right,,frizstudy9017,navstudy4017,,,,,,,,25860940,1
+7/28/2017 11:00,7/28/2017 11:06,IP Address,170.212.0.93,3,347,FALSE,8/4/2017 11:10,R_2y3EgsPc0p5wzqT,,,,,,,anonymous,EN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,12398868,
+8/7/2017 10:40,8/7/2017 10:40,Survey Preview,,100,26,TRUE,8/7/2017 10:40,R_2QM3ZhGWZWdmHDX,,,,,39.95970154,-75.19680023,preview,EN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,98919470,2
+8/7/2017 13:57,8/7/2017 13:58,Survey Preview,,100,32,TRUE,8/7/2017 13:58,R_1KdvYp0UaO4fdyO,,,,,39.95970154,-75.19680023,preview,EN,Chrome,59.0.3071.115,Windows NT 10.0,1920x1080,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,24824645,2
+8/7/2017 14:14,8/7/2017 14:14,Survey Preview,,100,42,TRUE,8/7/2017 14:14,R_3nDFM0tdraB8pLD,,,,,39.95970154,-75.19680023,preview,EN,Chrome,59.0.3071.115,Windows NT 10.0,1920x1080,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,81765468,12216933,2
+8/7/2017 15:14,8/7/2017 15:14,Survey Preview,,100,17,TRUE,8/7/2017 15:14,R_1rOdWYC6wzyW374,,,,,39.95970154,-75.19680023,preview,EN,Chrome,59.0.3071.115,Windows NT 10.0,1920x1080,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,55931679,18282454,1
+8/7/2017 17:18,8/7/2017 17:18,IP Address,174.201.12.29,100,0,TRUE,8/7/2017 17:18,R_1LNo1JxIkTPeRqC,,,,,40.18429565,-75.21679688,anonymous,EN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8/7/2017 17:12,8/7/2017 17:26,IP Address,76.98.72.235,100,856,TRUE,8/7/2017 17:26,R_2Sf6DAmU5XFCUyt,,,,,40.04910278,-75.22810364,anonymous,EN,Edge,15.15063,Windows NT 10.0,1600x900,4,4,english,right,female,transgender woman,,heterosexual,,asian,,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,4,4,"I've played in learning settings (clinics, learning leagues)",fpsl,I've captained a recreational team.,Cutter,Always a struggle,Always a struggle,Short Deep,Probably yes,Extremely comfortable,Moderately comfortable,Left,,,,navstudy4017,frizstudy9017,,,,,31876143,3016713,2
+8/10/2017 16:09,8/10/2017 16:40,IP Address,158.130.200.11,100,1868,TRUE,8/10/2017 16:40,R_1NysD3KGfwotvJh,,,,,39.95970154,-75.19680023,anonymous,EN,Chrome,60.0.3112.90,Macintosh,1280x800,21,14,english,right,male,man,,heterosexual,,white,,4,6,3,5,6,4,3,4,4,2,2,2,5,5,2,10,6,"I've played recreationally (pickup, with friends, at camp).,I've played on a high school team.",Very competent in high school as a handler; well-versed in tactics and I could hit targets pretty well with the standard throws.,"No, not really.",Handler,40 yards or more,40 yards or more,Cup,Definitely yes,Extremely comfortable,Extremely comfortable,Right,,,,navstudy4017,frizstudy9017,"I noticed that I didn't have to think about home or away - I could simply press the key on the side with the circles. For force questions, especially in the beginning, I compulsively simulated each throw, and it was always jarring to come back to forehand/backhand force after home/away force (which was more mindless).",I found I didn't actually take the perspective of the person when he was facing me. I simply remembered to invert my responses on left/right when he was away - I found it mentally taxing to try to picture him moving one way or the other.,No technical difficulties.,"There are two typos on the slides introducing part III: “Which represents “Home,” for a setting up a force” and “Or right arrow key to indicate the direction you would force the person throw the frisbee” on the first and (I believe) fourth slides respectively. Other than that, I was surprised how deeply the urge to simulate the thrower ran - I couldn't avoid it much of the time. ",27377365,81030517,2
+8/3/2017 17:35,8/3/2017 17:36,IP Address,76.98.72.235,5,47,FALSE,8/10/2017 17:36,R_bxdxWOkgOvv72gh,,,,,,,anonymous,EN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7473345,1
+8/11/2017 10:54,8/11/2017 10:54,IP Address,158.130.201.103,100,0,TRUE,8/11/2017 10:54,R_3lzFn5VHzcSiMnP,,,,,39.95970154,-75.19680023,anonymous,EN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8/11/2017 10:54,8/11/2017 10:54,Spam,158.130.201.103,100,0,TRUE,8/11/2017 10:54,R_1gnFfOfyc5VvIUM,,,,,39.95970154,-75.19680023,anonymous,EN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8/11/2017 10:56,8/11/2017 10:56,Spam,158.130.201.103,100,0,TRUE,8/11/2017 10:56,R_325ZVtHuvLeEkAP,,,,,39.95970154,-75.19680023,anonymous,EN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8/11/2017 20:10,8/11/2017 20:10,IP Address,76.98.72.235,100,0,TRUE,8/11/2017 20:10,R_1etpCWC7He4EcAF,,,,,40.04910278,-75.22810364,anonymous,EN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8/11/2017 20:10,8/11/2017 20:10,Spam,76.98.72.235,100,0,TRUE,8/11/2017 20:10,R_32X5LpiUuB5EsU4,,,,,40.04910278,-75.22810364,anonymous,EN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8/14/2017 17:05,8/14/2017 17:05,IP Address,68.81.206.132,100,0,TRUE,8/14/2017 17:05,R_2uJ11VkUaUCCo1P,,,,,39.91229248,-75.15329742,anonymous,EN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8/14/2017 17:04,8/14/2017 17:25,IP Address,68.82.226.41,100,1268,TRUE,8/14/2017 17:25,R_VKzaJrVXL6L3cAh,,,,,40.0124054,-75.14710236,anonymous,EN,Chrome,60.0.3112.90,Windows NT 6.1,1920x1200,35,16,not english,right,male,man,,heterosexual,,other,South Asian,"7
+(Strongly Agree)
+",3,5,"7
+(Strongly Agree)
+","1
+(Strongly Disagree)
+",3,3,"1
+(Strongly Disagree)
+",6,3,2,2,2,5,3,20,7,"I've played ultimate frisbee in casual settings, but never on an organized team.,I've played recreationally (pickup, with friends, at camp).,I've played in learning settings (clinics, learning leagues),I've played in a casual recreational but organized league.,I've played in a competitive recreational league.",FPSL,"No, not really.,Informally to teammates during timeouts or on the sidelines.,I've captained a recreational team.",Handler,20-40 yards,10-20 yards,Wing,Definitely yes,Extremely comfortable,Extremely comfortable,Right,,,,navstudy4017,frizstudy9017,No,When the person was facing me it was tougher for me to invert directions quickly,No,No,40227463,87779685,2
+8/16/2017 12:05,8/16/2017 12:30,IP Address,155.247.225.149,100,1484,TRUE,8/16/2017 12:30,R_3oBoJ5QIpMvFlk1,,,,,39.97740173,-75.14520264,anonymous,EN,Chrome,60.0.3112.101,Windows NT 6.1,1280x720,29,18,english,right,female,woman,,heterosexual,,white,,6,"7
+(Strongly Agree)
+",5,5,5,4,3,2,4,4,2,"1
+(Strongly Disagree)
+",2,4,2,3,3,"I've played ultimate frisbee in casual settings, but never on an organized team.,I've played recreationally (pickup, with friends, at camp).,I've played in learning settings (clinics, learning leagues),I've played in a casual recreational but organized league.,I've played in a competitive recreational league.",FPSL,"No, not really.,Informally to teammates during timeouts or on the sidelines.,I've captained a recreational team.",Cutter,20-40 yards,10-20 yards,Wing,Definitely yes,Extremely comfortable,Extremely comfortable,Right,,frizstudy9017,navstudy4017,,,Not particularly,Not particularly,During road intersection I had to restart once,Nope :),81252628,9947089,1
+8/16/2017 17:54,8/16/2017 18:14,IP Address,165.230.83.80,100,1192,TRUE,8/16/2017 18:14,R_5nddZU0y0IQVctz,,,,,40.55760193,-74.2845993,anonymous,EN,Firefox,52,Windows NT 10.0,1920x1080,34,18,english,right,male,man,,heterosexual,,white,,6,5,6,6,6,3,5,2,6,2,2,2,"1
+(Strongly Disagree)
+",5,"1
+(Strongly Disagree)
+",5,5,"I've played recreationally (pickup, with friends, at camp).,I've played in learning settings (clinics, learning leagues),I've played in a casual recreational but organized league.,I've played in a competitive recreational league.",FPSL,"Informally to teammates during timeouts or on the sidelines.,I've captained a recreational team.",Both,40 yards or more,20-40 yards,Cup,Definitely yes,Extremely comfortable,Moderately comfortable,Right,,,,navstudy4017,frizstudy9017,My brain was more primed for this task. Easier to remember home and away than forehand and backhand.,My brain wasn't primed to describe going away. ,No,Nice experiment! Will have great function when looking at how to teach new players. ,39342728,15636701,2
+8/18/2017 12:11,8/18/2017 12:31,IP Address,104.129.200.71,100,1235,TRUE,8/18/2017 12:31,R_1dEPeJTIM1wQmJZ,,,,,39.73919678,-104.9847031,anonymous,EN,Chrome,60.0.3112.90,Windows NT 6.1,1537x960,26,16,english,right,male,man,,heterosexual,,white,,6,2,5,"7
+(Strongly Agree)
+","7
+(Strongly Agree)
+","1
+(Strongly Disagree)
+","7
+(Strongly Agree)
+",2,"7
+(Strongly Agree)
+",2,5,2,6,6,"1
+(Strongly Disagree)
+",8,8,"I've played ultimate frisbee in casual settings, but never on an organized team.,I've played recreationally (pickup, with friends, at camp).,I've played in learning settings (clinics, learning leagues),I've played in a casual recreational but organized league.,I've played in a competitive recreational league.,I've played on a college team.,I've played on a club team.",Club,"Informally to teammates during timeouts or on the sidelines.,I've captained a recreational team.",Handler,20-40 yards,40 yards or more,Cup,Definitely yes,Extremely comfortable,Extremely comfortable,Left,,frizstudy9017,navstudy4017,,,Easy once in the swing,"When facing the person, the left / right were hard",no,I didn't enter my ID on the frisbee section (88122088) / (frizstudy9017),82607532,88122088,1
+8/18/2017 20:16,8/18/2017 20:36,IP Address,71.203.118.241,100,1193,TRUE,8/18/2017 20:36,R_25ynFm4qYvbK3tv,,,,,40.07099915,-75.12509918,anonymous,EN,Chrome,60.0.3112.90,Windows NT 10.0,1680x1050,44,26,english,right,female,woman,,heterosexual,,white,,2,5,2,2,6,6,"1
+(Strongly Disagree)
+",4,2,6,5,"1
+(Strongly Disagree)
+",6,2,6,2,2,I've played in a casual recreational but organized league.,UHLE Intermediate,"No, not really.",Cutter,5-10 yards,10-20 yards,Cup,Definitely yes,Moderately comfortable,Slightly uncomfortable,Right,,,,navstudy4017,frizstudy9017,My spatial relations are awful.,"Easier than frisbee questions, more familiar",PDF of consent didn't work,,30868190,80645464,2
+8/18/2017 20:56,8/18/2017 20:56,IP Address,108.36.215.146,100,0,TRUE,8/18/2017 20:56,R_SDbCDsOgwtfsjU5,,,,,39.92230225,-75.23339844,anonymous,EN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8/19/2017 21:08,8/19/2017 21:21,IP Address,100.34.137.213,100,775,TRUE,8/19/2017 21:21,R_3PpgD72r1ePjwUz,,,,,40.04910278,-75.22810364,anonymous,EN,Chrome,60.0.3112.101,Windows NT 10.0,1600x900,29,16,english,right,male,man,,heterosexual,,"hisp,white",,5,6,5,5,6,2,6,3,5,2,2,2,2,3,3,13,13,"I've played recreationally (pickup, with friends, at camp).,I've played in learning settings (clinics, learning leagues),I've played in a casual recreational but organized league.,I've played in a competitive recreational league.,I've played on a high school team.,I've played on a college team.,I've played on a club team.,I've played on a professional team.",Elite club,"I've captained a recreational team.,I've taught a clinic to players in high school or above.,I coach a high school, college, club, or professional team.",Handler,40 yards or more,40 yards or more,Short Deep,Definitely yes,Extremely comfortable,Extremely comfortable,Right,,,,navstudy4017,frizstudy9017,"Very well, not difficult","Had trouble with left/right when person was facing towards me, versus pressing left/right key quickly",No,,50839546,81058337,2
+8/20/2017 9:00,8/20/2017 9:28,IP Address,71.175.108.176,100,1704,TRUE,8/20/2017 9:28,R_24dg0b9drl3GT7g,,,,,40.09179688,-75.2562027,anonymous,EN,Chrome,60.0.3112.101,Windows NT 6.1,1366x768,28,16,english,right,male,man,,heterosexual,,white,,6,2,5,"7
+(Strongly Agree)
+","7
+(Strongly Agree)
+",2,"7
+(Strongly Agree)
+","1
+(Strongly Disagree)
+","7
+(Strongly Agree)
+",2,2,"1
+(Strongly Disagree)
+","1
+(Strongly Disagree)
+",6,2,9,9,"I've played recreationally (pickup, with friends, at camp).,I've played in a competitive recreational league.,I've played on a college team.,I've played on a club team.,I've played on a professional team.",National level club play,"Informally to teammates during timeouts or on the sidelines.,I've captained a recreational team.,I've taught a clinic to players in middle school or younger.,I've taught a clinic to players in high school or above.,I coach a high school, college, club, or professional team.",Cutter,40 yards or more,40 yards or more,Anywhere,Definitely yes,Extremely comfortable,Extremely comfortable,Right,,,,navstudy4017,frizstudy9017,"I got them all correct. I think I was slowest when identifying force backhands. Maybe because the sick figure was holding the disc on the flick side, maybe because forcing backhand is less common.",Fairly certain that I got them all correct. At first I wanted to always press the arrow key of the way the stick figure should turn from their perspective. Had to think about the question as which side are they going to to help me get away from that.,No.,No.,97958950,80113241,2
+8/20/2017 10:06,8/20/2017 10:31,IP Address,69.139.21.79,100,1500,TRUE,8/20/2017 10:31,R_xucPzxcyRqViIzD,,,,,39.96859741,-75.17620087,anonymous,EN,Chrome,59.0.3071.115,Macintosh,1440x900,32,17,english,right,male,man,,heterosexual,,asian,,4,3,5,4,5,4,5,3,5,5,3,2,2,4,2,18,15,"I've played recreationally (pickup, with friends, at camp).,I've played in learning settings (clinics, learning leagues),I've played in a casual recreational but organized league.,I've played in a competitive recreational league.,I've played on a college team.,I've played on a club team.",FPSL,"I've captained a recreational team.,I've taught a clinic to players in high school or above.",Both,40 yards or more,40 yards or more,Wing,Definitely yes,Extremely comfortable,Extremely comfortable,Right,,,,navstudy4017,frizstudy9017,no,no,no,stick figure in demo in part two says to assume all throwers are right handed but there is an image with the player holding the frisbee in it's left hand,94605039,36148861,2
+8/20/2017 10:28,8/20/2017 10:57,IP Address,71.162.241.86,100,1723,TRUE,8/20/2017 10:57,R_1qgovwz83z8f6lw,,,,,39.98280334,-75.17960358,anonymous,EN,Safari,10.1.2,Macintosh,1280x800,27,21,english,not right,female,woman,,homosexual,,white,,5,2,6,6,5,3,2,2,4,3,2,"1
+(Strongly Disagree)
+",4,5,2,4,4,"I've played ultimate frisbee in casual settings, but never on an organized team.,I've played recreationally (pickup, with friends, at camp).,I've played in a casual recreational but organized league.,I've played in a competitive recreational league.,I've played on a college team.,I've played on a club team.",Contribute to a pro-flight level club team,I've captained a recreational team.,Both,40 yards or more,20-40 yards,Deep Deep,Definitely yes,Extremely comfortable,Slightly uncomfortable,Left,,,,navstudy4017,frizstudy9017,"I got two wrong, so I did ok. Forcing backhand and flick are tougher to figure out as a lefty","No those were easy, although I am pretty sure I still got two wrong",I pressed the wrong button twice in the Road Intersection task,,4640342,92676929,2
+8/20/2017 11:32,8/20/2017 11:58,IP Address,108.24.173.159,100,1563,TRUE,8/20/2017 11:58,R_puevBsiVNlWKFdT,,,,,39.89419556,-75.03939819,anonymous,EN,Chrome,60.0.3112.90,Macintosh,1440x900,23,16,english,right,male,man,,heterosexual,,white,,6,4,5,6,5,2,4,3,4,2,4,2,4,5,2,5,5,"I've played ultimate frisbee in casual settings, but never on an organized team.,I've played recreationally (pickup, with friends, at camp).,I've played in a casual recreational but organized league.,I've played in a competitive recreational league.,I've played on a college team.,I've played on a club team.",FPSL,I've captained a recreational team.,Cutter,20-40 yards,20-40 yards,Wing,Definitely yes,Extremely comfortable,Extremely comfortable,Right,,frizstudy9017,navstudy4017,,,messed up once or twice because I was going rto fast but then tried to correct myself by hitting the correct one as fast as I could ,Harder than the frisbee had a slower more confused time when the person was facing me,no,no,2987802,61853264,1
+8/20/2017 12:01,8/20/2017 12:22,IP Address,71.225.0.149,100,1275,TRUE,8/20/2017 12:22,R_2o9nKzuMq8Ji2Hv,,,,,39.96859741,-75.17620087,anonymous,EN,Chrome,60.0.3112.101,Windows NT 10.0,1920x1080,22,16,english,right,male,man,,heterosexual,,white,,4,4,5,3,3,5,"7
+(Strongly Agree)
+",4,4,"7
+(Strongly Agree)
+",5,3,2,2,5,11,10,"I've played recreationally (pickup, with friends, at camp).,I've played in learning settings (clinics, learning leagues),I've played in a casual recreational but organized league.,I've played in a competitive recreational league.,I've played on a high school team.,I've played on a college team.,I've played on a club team.",Mixed club nationals,"I've captained a recreational team.,I've taught a clinic to players in high school or above.,I coach a high school, college, club, or professional team.",Handler,40 yards or more,40 yards or more,Deep Deep,Definitely yes,Extremely comfortable,Extremely comfortable,Right,,,,navstudy4017,frizstudy9017,"i visualized being on defense when the player was facing me, and i visualized being on offense when the player was facing away from me",idk i think struggled a bit more with these,"no, but i probably confused right and left on my keyboard a few times just due to pressing the two buttons so many times consecutively!",this seems like an interesting study! you should post the results on /r/ultimate!,89009412,49320823,2
+8/20/2017 12:22,8/20/2017 12:48,IP Address,108.4.232.53,100,1549,TRUE,8/20/2017 12:48,R_2DNO16n1pByOMhE,,,,,39.93890381,-75.18470001,anonymous,EN,Chrome,60.0.3112.90,Windows NT 10.0,1366x768,32,21,english,right,female,woman,,bisexual,,hisp,,6,2,2,6,2,3,6,3,6,2,2,"1
+(Strongly Disagree)
+","1
+(Strongly Disagree)
+",5,"1
+(Strongly Disagree)
+",17,17,"I've played recreationally (pickup, with friends, at camp).,I've played in learning settings (clinics, learning leagues),I've played in a casual recreational but organized league.,I've played in a competitive recreational league.,I've played on a high school team.,I've played on a college team.,I've played on a club team.",FPSL or Winter League,"Informally to teammates during timeouts or on the sidelines.,I've captained a recreational team.,I've taught a clinic to players in middle school or younger.",Cutter,20-40 yards,20-40 yards,Short Deep,Definitely yes,Extremely comfortable,Extremely comfortable,Right,,frizstudy9017,navstudy4017,,,Mostly just stared at where the disc was and looked at the home sideline stuff out of my peripheral vision,"Thought it was a bit easier, stared mostly at the directions and looked at the person's position (Close to me or far) and the house out of peripheral",no,,31776161,78764541,1
+8/20/2017 20:31,8/20/2017 20:58,IP Address,68.80.108.207,100,1596,TRUE,8/20/2017 20:58,R_6W3B9jIc0E3NfPj,,,,,39.95970154,-75.19680023,anonymous,EN,Chrome,60.0.3112.90,Macintosh,1280x800,25,16,english,right,female,woman,,heterosexual,,white,,"7
+(Strongly Agree)
+","1
+(Strongly Disagree)
+",5,"7
+(Strongly Agree)
+","7
+(Strongly Agree)
+",2,"7
+(Strongly Agree)
+",2,6,2,3,"1
+(Strongly Disagree)
+","1
+(Strongly Disagree)
+",5,2,5,5,"I've played ultimate frisbee in casual settings, but never on an organized team.,I've played recreationally (pickup, with friends, at camp).,I've played in learning settings (clinics, learning leagues),I've played in a casual recreational but organized league.,I've played in a competitive recreational league.,I've played on a college team.,I've played on a club team.",FPSL,"Informally to teammates during timeouts or on the sidelines.,I've captained a recreational team.",Cutter,10-20 yards,10-20 yards,Wing,Definitely yes,Extremely comfortable,Extremely comfortable,Right,Home / Away,,,navstudy4017,frizstudy9017,I think I answered the frisbee questions better than the the road questions,got a little tripped up when the person was facing me,no,,92196727,30426108,2
+8/21/2017 0:22,8/21/2017 0:42,IP Address,69.255.91.231,100,1205,TRUE,8/21/2017 0:42,R_1rqWWYxeHwFL834,,,,,39.61720276,-75.86779785,anonymous,EN,Firefox,54,Macintosh,1440x900,33,21,english,right,male,man,,heterosexual,,white,,5,4,2,6,6,3,"7
+(Strongly Agree)
+",2,"7
+(Strongly Agree)
+","7
+(Strongly Agree)
+",4,5,2,3,3,15,12,"I've played ultimate frisbee in casual settings, but never on an organized team.,I've played recreationally (pickup, with friends, at camp).,I've played in a casual recreational but organized league.,I've played in a competitive recreational league.,I've played on a college team.,I've played on a club team.,I've played on a professional team.",Nationals-level club team,"Informally to teammates during timeouts or on the sidelines.,I've captained a recreational team.,I've taught a clinic to players in middle school or younger.,I coach a high school, college, club, or professional team.",Both,40 yards or more,40 yards or more,Anywhere,Definitely yes,Extremely comfortable,Extremely comfortable,Right,Home / Away,,,navstudy4017,frizstudy9017,Definitely takes longer to recognize which way the player is facing using language forehand/backhand instead of home/away (and this was without lefties!),Had trouble when the person was facing me and asked for the direction left which would require selecting the right arrow,,,74779937,44643324,2
+8/21/2017 9:20,8/21/2017 9:53,IP Address,98.115.97.112,100,1993,TRUE,8/21/2017 9:53,R_1KcJzBAFLRizJDP,,,,,39.91929626,-75.41899872,anonymous,EN,Chrome,60.0.3112.90,Macintosh,1280x800,37,18,english,right,female,woman,,heterosexual,,white,,3,5,5,6,4,5,5,3,5,5,5,3,5,5,3,17,8,"I've played in a competitive recreational league.,I've played on a college team.,I've played on a club team.","consistent, midrange player-not a liability, not a huge asset. Good at D",Informally to teammates during timeouts or on the sidelines.,Cutter,10-20 yards,10-20 yards,Cup,Definitely yes,Extremely comfortable,Extremely comfortable,Right,Forehand / Backhand,,,navstudy4017,frizstudy9017,"during the frisbee questions I was aware of more implications. I visualized defenders and open space, not just the person with the disc","I was trying to go too fast. I would recognize when I would say ""right"" in my head, my right hand hit that key, even when that wasn't the answer I wanted. there were several times when I immediately knew I hadn't hit what I wanted. ",no,,15016853,61216562,2
+8/21/2017 9:52,8/21/2017 10:12,IP Address,73.30.161.123,100,1223,TRUE,8/21/2017 10:12,R_1BQrFVfuPG5nQQS,,,,,39.93589783,-75.15339661,anonymous,EN,Chrome,57.0.2987.133,Macintosh,1440x900,30,18,english,right,female,woman,,heterosexual,,white,,6,2,3,3,"1
+(Strongly Disagree)
+",3,4,4,5,2,4,5,"7
+(Strongly Agree)
+",6,3,16,16,"I've played ultimate frisbee in casual settings, but never on an organized team.,I've played recreationally (pickup, with friends, at camp).,I've played in learning settings (clinics, learning leagues),I've played in a casual recreational but organized league.,I've played in a competitive recreational league.,I've played on a high school team.,I've played on a college team.,I've played on a club team.",Club level offensive handler,"Informally to teammates during timeouts or on the sidelines.,I've captained a recreational team.,I've taught a clinic to players in high school or above.,I coach a high school, college, club, or professional team.",Handler,20-40 yards,20-40 yards,Wing,Definitely yes,Extremely comfortable,Extremely comfortable,Right,Home / Away,,,navstudy4017,frizstudy9017,"When the person was facing towards you, it was harder to figure out if it was backhand or forehand.",Left and right is always difficult for me.,nope,nope,15949615,86763169,2
+8/21/2017 12:39,8/21/2017 13:00,IP Address,128.4.84.40,100,1227,TRUE,8/21/2017 13:00,R_1MM4k9K09w1jM2C,,,,,39.68370056,-75.74970245,anonymous,EN,Chrome,60.0.3112.101,Macintosh,1440x900,23,17,english,right,female,woman,,heterosexual,,white,,4,5,6,3,4,6,2,5,3,6,5,2,4,2,5,6,5,"I've played recreationally (pickup, with friends, at camp).,I've played in a competitive recreational league.,I've played on a college team.,I've played on a club team.",Club teams / high ranking college team,Informally to teammates during timeouts or on the sidelines.,Both,20-40 yards,40 yards or more,Cup,Definitely yes,Extremely comfortable,Extremely comfortable,Right,Home / Away,frizstudy9017,navstudy4017,,,I thought about myself in the position the stick figure was in and what I would throw. I didn't think it was difficult. ,The person facing me and deciding which direction to go was very difficult. I tried to imagine myself in the position but it was more difficult at the intersection.  ,No. ,No. ,21094030,6061126,1
+8/21/2017 12:43,8/21/2017 13:01,IP Address,73.188.118.201,100,1056,TRUE,8/21/2017 13:01,R_1HpEfC2kPXNgsnU,,,,,39.91529846,-75.19139862,anonymous,EN,Chrome,60.0.3112.101,Windows NT 10.0,1920x1200,35,16,english,right,male,man,,heterosexual,,white,,6,2,5,5,4,2,5,2,5,4,3,6,2,5,3,13,10,"I've played recreationally (pickup, with friends, at camp).,I've played in a casual recreational but organized league.,I've played in a competitive recreational league.,I've played on a club team.",spring league,"Informally to teammates during timeouts or on the sidelines.,I've captained a recreational team.",Cutter,20-40 yards,20-40 yards,Cup,Definitely yes,Extremely comfortable,Extremely comfortable,Right,Home / Away,,,navstudy4017,frizstudy9017,pictured myself on the field,facing towards me was more difficult,no,,45152129,40321903,2
+8/21/2017 14:38,8/21/2017 15:03,IP Address,71.230.89.174,100,1506,TRUE,8/21/2017 15:03,R_1P1RFmVr6QfCbKL,,,,,40.14419556,-74.84829712,anonymous,EN,Chrome,60.0.3112.101,Windows NT 10.0,1680x1050,32,16,english,right,male,man,,heterosexual,,white,,5,4,6,4,2,4,5,2,5,3,2,"1
+(Strongly Disagree)
+",4,3,4,14,14,"I've played recreationally (pickup, with friends, at camp).,I've played in a casual recreational but organized league.,I've played in a competitive recreational league.,I've played on a high school team.,I've played on a college team.,I've played on a club team.",Competitive Summer League,Informally to teammates during timeouts or on the sidelines.,Both,40 yards or more,40 yards or more,Wing,Definitely yes,Extremely comfortable,Extremely comfortable,Right,Home / Away,frizstudy9017,navstudy4017,,,Harder to answer with the person facing me,"Quicker to respond with the person facing away from me, overall faster to answer than the Ultimate task.",No,No,94955502,52817250,1
+8/22/2017 8:10,8/22/2017 8:10,IP Address,98.225.156.65,100,0,TRUE,8/22/2017 8:10,R_xr58YuiSzjTl3FL,,,,,39.93589783,-75.15339661,anonymous,EN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8/22/2017 14:53,8/22/2017 15:13,IP Address,144.118.77.72,100,1143,TRUE,8/22/2017 15:13,R_3oXv8ECjKTcl2XR,,,,,39.95970154,-75.19680023,anonymous,EN,Chrome,60.0.3112.101,Windows NT 10.0,1280x1024,28,20,english,not right,male,man,,heterosexual,,white,,"7
+(Strongly Agree)
+",4,5,"7
+(Strongly Agree)
+","7
+(Strongly Agree)
+","1
+(Strongly Disagree)
+","7
+(Strongly Agree)
+","1
+(Strongly Disagree)
+","7
+(Strongly Agree)
+",3,"1
+(Strongly Disagree)
+","1
+(Strongly Disagree)
+","1
+(Strongly Disagree)
+",5,"7
+(Strongly Agree)
+",2,2,"I've played ultimate frisbee in casual settings, but never on an organized team.,I've played recreationally (pickup, with friends, at camp).,I've played in a competitive recreational league.",PADA Summer League,"No, not really.",Cutter,40 yards or more,10-20 yards,Deep Deep,Definitely yes,Extremely comfortable,Extremely comfortable,"Both (really ambidextrous, not just a lefty backhand)",Home / Away,,,navstudy4017,frizstudy9017,No nothing was particularly difficult about the test.,"I had a little bit of difficulty with the person facing at me across the road, but I think i settled into it after a few times answering",None at all.,"I've played lots of team sports my entire life: hockey as a goalie, and soccer as a midfielder, but only ultimate for the past 2 years.",45171900,34545091,2
+8/23/2017 16:03,8/23/2017 16:32,IP Address,69.241.64.18,100,1726,TRUE,8/23/2017 16:32,R_ABTfpAmlVB4Sx4B,,,,,39.99639893,-75.17089844,anonymous,EN,Chrome,57.0.2987.133,Windows NT 10.0,1280x1024,30,16,english,right,female,woman,,heterosexual,,white,,6,2,3,3,"1
+(Strongly Disagree)
+",6,5,5,3,6,2,"1
+(Strongly Disagree)
+",6,3,3,12,11,I've played on a club team.,Club - highly competitive leagues/teams,"I coach a high school, college, club, or professional team.",Both,20-40 yards,40 yards or more,Cup,Definitely yes,Extremely comfortable,Extremely comfortable,Right,Forehand / Backhand,,,navstudy4017,frizstudy9017,"sometimes just trying to go fast I would click the wrong one and make a mistake, even though I knew the answer","when the stick figure was facing me and needed to turn, I had to think about myself and turn myself around in my head/used my hands",I closed a window accidentally then somehow got back to enter the code,it was really interesting/felt like a game to me...I would play brain games like that if they existed.,52162577,7889786,2
+8/23/2017 18:02,8/23/2017 18:25,IP Address,108.41.173.204,100,1363,TRUE,8/23/2017 18:25,R_3R8SlZ9wuqqYpQS,,,,,40.66870117,-74.11430359,anonymous,EN,Chrome,60.0.3112.101,Windows NT 6.1,1920x1080,29,20,english,right,male,man,,heterosexual,,white,,"7
+(Strongly Agree)
+",2,6,"7
+(Strongly Agree)
+","7
+(Strongly Agree)
+","1
+(Strongly Disagree)
+","7
+(Strongly Agree)
+",2,"7
+(Strongly Agree)
+","1
+(Strongly Disagree)
+",2,"1
+(Strongly Disagree)
+","1
+(Strongly Disagree)
+","7
+(Strongly Agree)
+","1
+(Strongly Disagree)
+",6,6,"I've played ultimate frisbee in casual settings, but never on an organized team.,I've played recreationally (pickup, with friends, at camp).,I've played in learning settings (clinics, learning leagues),I've played in a casual recreational but organized league.,I've played in a competitive recreational league.,I've played on a high school team.,I've played on a college team.,I've played on a club team.",Regionals level club team,"Informally to teammates during timeouts or on the sidelines.,I've captained a recreational team.",Cutter,40 yards or more,20-40 yards,Deep Deep,Definitely yes,Extremely comfortable,Extremely comfortable,Right,Home / Away,frizstudy9017,navstudy4017,,,"Home/Away was easy because you just have to enter the direction of the stuff on the side of the field. I realized about 15 examples in that forehand/backhand is also easy because forehand was the held-frisbee-side and backhand was the non-held-frisbee-side. Before that, I was picturing that person throwing, then answering. ","Again, home/away is easy because you have an explicit direction that requires little processing. For right and left I just thought ""near is regular, far is reversed"" referring to the location of the figure. ",No,"I accidentally entered my name instead of my ID number for the first task, but added both for the second task so you can hopefully edit that field to make it correct. ",29114940,63854690,1
+8/23/2017 21:52,8/23/2017 22:13,IP Address,73.81.123.34,100,1267,TRUE,8/23/2017 22:13,R_1llQx8rRYjmUCAH,,,,,39.95300293,-75.17559814,anonymous,EN,Chrome,60.0.3112.101,Windows NT 10.0,1366x768,30,18,english,right,male,man,,heterosexual,,white,,6,"1
+(Strongly Disagree)
+",6,6,6,2,6,2,6,2,3,"1
+(Strongly Disagree)
+",3,6,2,14,14,"I've played ultimate frisbee in casual settings, but never on an organized team.,I've played recreationally (pickup, with friends, at camp).,I've played in learning settings (clinics, learning leagues),I've played in a casual recreational but organized league.,I've played in a competitive recreational league.,I've played on a high school team.,I've played on a club team.,I've played on a professional team.","elite level, USA national championships, pro championships","Informally to teammates during timeouts or on the sidelines.,I've captained a recreational team.,I've taught a clinic to players in middle school or younger.,I've taught a clinic to players in high school or above.",Cutter,40 yards or more,40 yards or more,Anywhere,Definitely yes,Extremely comfortable,Extremely comfortable,Right,Home / Away,frizstudy9017,navstudy4017,,,as quickly as possible but with clear thought. It was not terribly difficult.,"The only difficult decision was when person faces the viewer and the direction was either ""right"" or ""left""",no,"Good work, Steve. Keep it up.",39683254,49541095,1
+8/24/2017 17:02,8/24/2017 17:23,IP Address,161.69.123.14,100,1261,TRUE,8/24/2017 17:23,R_3nuEr7rYdWa6HCJ,,,,,40.71429443,-74.0059967,anonymous,EN,Chrome,60.0.3112.101,Windows NT 6.1,1600x900,29,15,english,right,female,woman,,heterosexual,,white,,"7
+(Strongly Agree)
+",2,4,6,6,2,"7
+(Strongly Agree)
+",2,"7
+(Strongly Agree)
+",3,5,"1
+(Strongly Disagree)
+",2,4,5,5,5,"I've played recreationally (pickup, with friends, at camp).,I've played in learning settings (clinics, learning leagues),I've played in a casual recreational but organized league.",Contribute to FPSL team (usually a request/assignment),"No, not really.,Informally to teammates during timeouts or on the sidelines.",Cutter,5-10 yards,10-20 yards,Cup,Definitely yes,Extremely comfortable,Extremely comfortable,Right,Forehand / Backhand,frizstudy9017,navstudy4017,,,Only thinking about the person and which way was R/L from their view. But in general not that difficult. ,"Tougher than the field quesitons, but not too much more difficult. ",No,"I think I input the participant # incorrectly the first time. If you see ""Christine Belzyt"" that's linked to this survey. Sorry if I messed it up. ",75650442,97924102,1
+8/28/2017 16:56,8/28/2017 17:25,IP Address,75.147.66.75,100,1773,TRUE,8/28/2017 17:25,R_2fwggRo7P1N2tyF,,,,,39.96859741,-75.17620087,anonymous,EN,Chrome,60.0.3112.101,Windows NT 6.1,1536x864,23,16,english,right,male,man,,heterosexual,,"hisp,white",,6,5,3,6,6,3,6,3,5,6,2,2,3,2,3,8,8,"I've played recreationally (pickup, with friends, at camp).,I've played in learning settings (clinics, learning leagues),I've played in a casual recreational but organized league.,I've played in a competitive recreational league.,I've played on a high school team.,I've played on a college team.,I've played on a club team.,I've played on a professional team.",I compete on a team that regularly attends Nationals and the other highest-level tournaments.,"Informally to teammates during timeouts or on the sidelines.,I've captained a recreational team.,I've taught a clinic to players in middle school or younger.",Handler,Always a struggle,Always a struggle,Wing,Definitely yes,Extremely comfortable,Extremely comfortable,Right,Forehand / Backhand,frizstudy9017,navstudy4017,,,"I answered them pretty easily, the ones that took me the longest (I think) were the backhand ones.","The Road Intersection task felt a little more difficult, and I struggled most with when the person was facing me and I had to go right or left.",No,No,17326608,21208596,1
+8/28/2017 23:20,8/28/2017 23:48,IP Address,108.16.17.41,100,1701,TRUE,8/28/2017 23:48,R_3kH8YeTdX2Bn2rD,,,,,39.99110413,-75.10140228,anonymous,EN,Chrome,60.0.3112.113,Windows NT 10.0,1366x768,26,18,english,right,male,man,,heterosexual,,"hisp,white",,5,4,3,3,2,3,4,2,5,5,2,3,3,3,4,11,11,"I've played recreationally (pickup, with friends, at camp).,I've played in a casual recreational but organized league.,I've played in a competitive recreational league.,I've played on a high school team.,I've played on a college team.,I've played on a club team.",FPSL,I've captained a recreational team.,Handler,40 yards or more,20-40 yards,Cup,Definitely yes,Extremely comfortable,Extremely comfortable,Right,Home / Away,frizstudy9017,navstudy4017,,,"Orient which side was home and away first, then look at the player","Orient which side was home and away first, then look at which side of the road the person was on. If they were facing towards me, I would just say ""opposite"" in my head in case the task was directional.",no,"not sure what you're studying, but that was an interesting test",28145,43843481,1
+8/28/2017 17:21,8/29/2017 9:15,IP Address,68.80.223.202,100,57220,TRUE,8/29/2017 9:15,R_1rHyavXoQRO0VJX,,,,,39.95970154,-75.19680023,anonymous,EN,Chrome,59.0.3071.115,Macintosh,1440x900,20,14,english,right,female,woman,,heterosexual,,"hisp,white",,4,3,5,5,4,4,4,4,4,4,5,4,4,5,6,2,2,"I've played ultimate frisbee in casual settings, but never on an organized team.,I've played recreationally (pickup, with friends, at camp).,I've played in a competitive recreational league.,I've played on a college team.,I've played on a club team.",I'm on a nationally competitive club team (AMP) and am on the USA U24 Mixed National Team,I've captained a recreational team.,Both,40 yards or more,40 yards or more,Short Deep,Definitely yes,Extremely comfortable,Extremely comfortable,Right,Forehand / Backhand,frizstudy9017,navstudy4017,,,no,the right/left when the figure was facing you,no,no,54174712,95173719,1
+8/29/2017 22:35,8/29/2017 23:11,IP Address,206.125.47.16,100,2178,TRUE,8/29/2017 23:11,R_31dDkSIWPjOX37D,,,,,39.99839783,-75.27120209,anonymous,EN,Chrome,59.0.3071.109,Macintosh,1440x900,16,10,english,not right,female,woman,,heterosexual,,"hisp,white",,5,4,2,3,3,6,2,3,2,5,3,3,4,3,4,4,2,"I've played recreationally (pickup, with friends, at camp).,I've played in learning settings (clinics, learning leagues),I've played in a competitive recreational league.,I've played on a high school team.,I've played on a club team.",FPSL,Informally to teammates during timeouts or on the sidelines.,Handler,40 yards or more,20-40 yards,Wing,Definitely yes,Extremely comfortable,Extremely comfortable,Left,Forehand / Backhand,frizstudy9017,navstudy4017,,,"For home and away I pressed wherever the circles were/were not. For forehands and backhands, I visualized cutting off one half of the field, based on which throw to allow, and choosing the open half.","I went towards the house for home, and opposite for away. If the person was facing away from me and it was a left/right question I would select the same arrow, while if the person faced me I would select the opposite key. Sometimes I mixed up my lefts and rights trying to move quickly. ",None,,27468827,23889243,1
+8/20/2017 17:40,8/23/2017 20:05,IP Address,71.185.80.248,4,267943,FALSE,8/30/2017 20:05,R_W2HfUIpNWZF9tG9,,,,,,,anonymous,EN,Chrome,60.0.3112.101,Windows NT 6.3,1536x864,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,93644107,53317753,1
+8/23/2017 16:51,8/24/2017 8:52,IP Address,73.141.175.159,88,57689,FALSE,8/31/2017 8:53,R_3PIg1E7tPScJeeW,,,,,,,anonymous,EN,Chrome,60.0.3112.101,Windows NT 6.1,1920x1080,30,18,english,right,male,man,,heterosexual,,white,,6,"1
+(Strongly Disagree)
+","7
+(Strongly Agree)
+",6,6,2,"7
+(Strongly Agree)
+",2,6,2,5,"1
+(Strongly Disagree)
+",4,6,"1
+(Strongly Disagree)
+",14,14,"I've played ultimate frisbee in casual settings, but never on an organized team.,I've played recreationally (pickup, with friends, at camp).,I've played in learning settings (clinics, learning leagues),I've played in a casual recreational but organized league.,I've played in a competitive recreational league.,I've played on a high school team.,I've played on a club team.,I've played on a professional team.","elite level, USA national championships ","Informally to teammates during timeouts or on the sidelines.,I've captained a recreational team.,I've taught a clinic to players in middle school or younger.,I've taught a clinic to players in high school or above.",Cutter,40 yards or more,40 yards or more,Anywhere,Definitely yes,Extremely comfortable,Extremely comfortable,Right,Forehand / Backhand,,,,,,,,,17126774,54359478,2
+9/4/2017 22:10,9/5/2017 21:05,IP Address,71.185.80.248,100,82506,TRUE,9/5/2017 21:05,R_3jSW107yQd1HrKv,,,,,40.0375061,-75.145401,anonymous,EN,Chrome,60.0.3112.113,Windows NT 6.3,1536x864,28,18,english,right,male,man,,heterosexual,,do not wish to say,,5,2,6,6,5,2,"7
+(Strongly Agree)
+","1
+(Strongly Disagree)
+","7
+(Strongly Agree)
+",2,2,"1
+(Strongly Disagree)
+",2,5,2,9,9,"I've played recreationally (pickup, with friends, at camp).,I've played in learning settings (clinics, learning leagues),I've played in a competitive recreational league.,I've played on a college team.",FPSL,"Informally to teammates during timeouts or on the sidelines.,I've captained a recreational team.,I've taught a clinic to players in middle school or younger.",Both,40 yards or more,20-40 yards,Short Deep,Definitely yes,Extremely comfortable,Extremely comfortable,Right,Home / Away,,,navstudy4017,frizstudy9017,No.,No.,no.,No.,25481565,72765732,2
+8/30/2017 10:08,8/30/2017 10:09,IP Address,128.91.12.234,4,43,FALSE,9/6/2017 10:09,R_x6pKJyHGKmPTAPL,,,,,,,anonymous,EN,Chrome,60.0.3112.113,Windows NT 10.0,1920x1080,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,81655008,6301307,2
+8/30/2017 11:42,8/30/2017 11:44,IP Address,75.147.66.75,4,77,FALSE,9/6/2017 11:44,R_3mauumYLX5wpFog,,,,,,,anonymous,EN,Chrome,60.0.3112.113,Windows NT 6.1,1536x864,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,46998634,29142172,1
+9/8/2017 1:22,9/8/2017 1:43,IP Address,100.34.7.9,100,1229,TRUE,9/8/2017 1:43,R_C14vbN2NpmMmcZb,,,,,39.94070435,-75.22810364,anonymous,EN,Chrome,60.0.3112.113,Macintosh,1280x800,24,16,english,right,male,man,,heterosexual,,white,,6,6,5,6,"7
+(Strongly Agree)
+",2,"7
+(Strongly Agree)
+",2,"7
+(Strongly Agree)
+",2,2,"1
+(Strongly Disagree)
+",2,5,"1
+(Strongly Disagree)
+",10,7,"I've played in a competitive recreational league.,I've played on a college team.,I've played on a club team.,I've played on a professional team.",AUDL/Club,I've taught a clinic to players in high school or above.,Cutter,40 yards or more,40 yards or more,Wing,Definitely yes,Extremely comfortable,Extremely comfortable,Right,Forehand / Backhand,frizstudy9017,navstudy4017,,,No,reversing arrow directions for the stick figure facing toward you,no,no,68356134,3651739,1
+9/8/2017 9:47,9/8/2017 10:08,IP Address,71.162.146.76,100,1246,TRUE,9/8/2017 10:08,R_27J2JGm6NLgBQDj,,,,,40.24890137,-75.14980316,anonymous,EN,Chrome,60.0.3112.113,Windows NT 6.2,1920x1080,28,17,english,right,male,man,,heterosexual,,white,,5,4,6,5,3,4,6,3,6,4,3,3,3,4,3,10,9,"I've played recreationally (pickup, with friends, at camp).,I've played in learning settings (clinics, learning leagues),I've played in a casual recreational but organized league.,I've played in a competitive recreational league.,I've played on a college team.,I've played on a club team.,I've played on a professional team.",Club,"Informally to teammates during timeouts or on the sidelines.,I've captained a recreational team.,I've taught a clinic to players in middle school or younger.,I've taught a clinic to players in high school or above.",Cutter,40 yards or more,40 yards or more,Cup,Definitely yes,Extremely comfortable,Extremely comfortable,Right,Home / Away,frizstudy9017,navstudy4017,,,No,No,No,No,97139836,99990726,1
+9/8/2017 19:48,9/8/2017 19:48,IP Address,174.201.29.78,100,0,TRUE,9/8/2017 19:48,R_AiCOtCrmoTg7d97,,,,,40.04400635,-75.38770294,anonymous,EN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9/11/2017 9:25,9/11/2017 9:45,IP Address,24.238.113.195,100,1165,TRUE,9/11/2017 9:45,R_Tqj8u0AMrQgxPCp,,,,,39.95970154,-75.19680023,anonymous,EN,Chrome,60.0.3112.113,Macintosh,1280x800,21,15,english,right,female,woman,,bisexual,,white,,6,4,4,6,3,3,5,2,5,2,2,"1
+(Strongly Disagree)
+",2,5,2,7,7,"I've played in a competitive recreational league.,I've played on a high school team.,I've played on a college team.,I've played on a club team.",club,Informally to teammates during timeouts or on the sidelines.,Both,40 yards or more,40 yards or more,Cup,Definitely yes,Extremely comfortable,Extremely comfortable,Right,Home / Away,,,navstudy4017,frizstudy9017,not really,more difficult when the person was facing towards me,no,no,22316954,3771103,2
+9/8/2017 1:16,9/8/2017 1:16,IP Address,173.72.102.48,4,12,FALSE,9/15/2017 1:16,R_qFwhOhmpfGAMKR3,,,,,,,anonymous,EN,Chrome,60.0.3112.113,Windows NT 10.0,1366x768,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,69415185,22792271,2
+9/8/2017 10:14,9/8/2017 10:34,IP Address,23.24.8.249,88,1182,FALSE,9/15/2017 10:34,R_YQAzEtePMSYgUa5,,,,,,,anonymous,EN,Firefox,45,Windows NT 6.1,1366x768,24,15,english,right,male,man,,heterosexual,,white,,4,5,3,3,3,5,5,3,5,6,5,4,3,2,4,8,8,"I've played recreationally (pickup, with friends, at camp).,I've played in a competitive recreational league.,I've played on a high school team.,I've played on a college team.,I've played on a club team.,I've played on a professional team.",AUDL,"Informally to teammates during timeouts or on the sidelines.,I've taught a clinic to players in middle school or younger.,I've taught a clinic to players in high school or above.",Cutter,40 yards or more,40 yards or more,Deep Deep,Definitely yes,Extremely comfortable,Extremely comfortable,Right,Forehand / Backhand,,,,,,,,,36204741,22619937,2
+9/15/2017 15:41,9/15/2017 16:32,IP Address,71.224.114.133,100,3099,TRUE,9/15/2017 16:32,R_eOOQdWXZeZiofyp,,,,,39.99839783,-75.27120209,anonymous,EN,Chrome,60.0.3112.113,Windows NT 10.0,1920x1080,57,18,not english,right,female,woman,,heterosexual,,asian,,6,3,6,6,"7
+(Strongly Agree)
+",2,"7
+(Strongly Agree)
+","1
+(Strongly Disagree)
+","7
+(Strongly Agree)
+",3,4,"1
+(Strongly Disagree)
+",2,5,2,19,17,"I've played recreationally (pickup, with friends, at camp).,I've played in learning settings (clinics, learning leagues),I've played in a casual recreational but organized league.,I've played in a competitive recreational league.",FPSL,"Informally to teammates during timeouts or on the sidelines.,I've captained a recreational team.,I've taught a clinic to players in middle school or younger.,I've taught a clinic to players in high school or above.,I coach a high school, college, club, or professional team.",Both,40 yards or more,20-40 yards,Anywhere,Definitely yes,Extremely comfortable,Extremely comfortable,Right,Forehand / Backhand,frizstudy9017,navstudy4017,,,Ok. Not really,got turned around on a couple,after getting the codes the page is blank.  Not sure what to do at that point.,,31598815,60510916,1
+9/19/2017 16:33,9/19/2017 17:12,IP Address,173.59.57.57,100,2287,TRUE,9/19/2017 17:12,R_1pGxL4L5HkJe94E,,,,,40.15449524,-75.38089752,anonymous,EN,Chrome,60.0.3112.113,Windows NT 6.3,1536x864,24,16,english,right,male,man,,heterosexual,,white,,5,2,5,3,"1
+(Strongly Disagree)
+",2,3,2,5,5,3,"1
+(Strongly Disagree)
+",2,5,2,9,5,"I've played recreationally (pickup, with friends, at camp).,I've played in a casual recreational but organized league.,I've played in a competitive recreational league.,I've played on a high school team.,I've played on a college team.,I've played on a club team.,I've played on a professional team.",I have played in the AUDL for three years with the Philadelphia Phoenix. I have also played club on an open men's team called Citywide Special out of Philadelphia for four years. I also played for the University of Delaware Sideshow team for three years from my sophomore year through my senior year.,"Informally to teammates during timeouts or on the sidelines.,I've taught a clinic to players in middle school or younger.,I've taught a clinic to players in high school or above.",Cutter,40 yards or more,40 yards or more,Deep Deep,Definitely yes,Extremely comfortable,Extremely comfortable,Right,Home / Away,,,navstudy4017,frizstudy9017,By instinct and recognizing what the force was based off of what it said. I felt like the person facing away from me was more difficult than one facing towards me. I also thought that home/away was easier than forehand/backhand.,I used my judgment based off of instinct and recognizing where to go based off of the way the person was facing and where home was. I felt that again home/away was easier than left/right. I also thought that the person facing the opposite way of me was harder than the person facing me.,No not that I'm aware of.,No,40882209,40119543,2
+9/28/2017 17:29,9/28/2017 17:51,IP Address,73.233.12.182,100,1355,TRUE,9/28/2017 17:51,R_1f47Z2o0VVvV4uH,,,,,39.95939636,-75.27279663,anonymous,EN,Chrome,61.0.3163.100,Windows NT 6.2,1366x768,22,16,english,right,female,woman,,heterosexual,,white,,5,5,3,3,"1
+(Strongly Disagree)
+",5,"1
+(Strongly Disagree)
+",3,4,5,3,3,6,3,5,9,9,"I've played recreationally (pickup, with friends, at camp).,I've played in learning settings (clinics, learning leagues),I've played in a casual recreational but organized league.,I've played in a competitive recreational league.,I've played on a high school team.,I've played on a college team.,I've played on a club team.",nationals club,"Informally to teammates during timeouts or on the sidelines.,I've captained a recreational team.,I've taught a clinic to players in middle school or younger.,I've taught a clinic to players in high school or above.",Cutter,40 yards or more,20-40 yards,Short Deep,Definitely yes,Extremely comfortable,Extremely comfortable,Right,Forehand / Backhand,frizstudy9017, navstudy4017,,,easy,harder than part 2,no,n/a,49041908,98888826,1
+10/4/2017 10:08,10/4/2017 10:25,IP Address,130.91.96.63,100,1038,TRUE,10/4/2017 10:25,R_0fe7SOqFfJ0UNjj,,,,,39.95970154,-75.19680023,anonymous,EN,Firefox,52,Windows NT 6.1,1920x1080,36,23,english,right,male,man,,heterosexual,,white,,"7
+(Strongly Agree)
+",2,5,6,"7
+(Strongly Agree)
+",2,"7
+(Strongly Agree)
+",2,"7
+(Strongly Agree)
+","1
+(Strongly Disagree)
+",2,"7
+(Strongly Agree)
+","1
+(Strongly Disagree)
+",6,2,17,17,"I've played recreationally (pickup, with friends, at camp).,I've played in learning settings (clinics, learning leagues),I've played in a casual recreational but organized league.,I've played in a competitive recreational league.,I've played on a college team.,I've played on a club team.",Philly Fall Competitive Core League,"No, not really.",Both,20-40 yards,20-40 yards,Wing,Definitely yes,Extremely comfortable,Extremely comfortable,Right,Home / Away,,,navstudy4017,frizstudy9017,Backhand/forehand force requires an extra step of visualizing how they throw the frisbee.,,,,52416172,9495124,2
+10/4/2017 11:16,10/4/2017 12:19,IP Address,96.93.19.73,100,3789,TRUE,10/4/2017 12:19,R_3HNxGhT7ZOhM7fy,,,,,39.89250183,-75.37039948,anonymous,EN,Chrome,61.0.3163.100,Windows NT 6.1,1440x900,26,16,english,right,female,do not wish to say,,bisexual,,white,,3,3,4,3,2,5,4,5,3,6,3,5,4,2,5,7,7,"I've played recreationally (pickup, with friends, at camp).,I've played in learning settings (clinics, learning leagues),I've played in a casual recreational but organized league.,I've played in a competitive recreational league.,I've played on a college team.",FPSL,"I coach a high school, college, club, or professional team.",Cutter,10-20 yards,10-20 yards,Wing,Definitely yes,Slightly comfortable,Extremely comfortable,Right,Forehand / Backhand,frizstudy9017,navstudy4017,,,Good brain exercise... definitely did not feel confident during it.,Less difficult than the Ultimate Frisbee task,,,3249671,64024983,1
+10/4/2017 12:48,10/4/2017 13:14,IP Address,207.239.138.18,100,1609,TRUE,10/4/2017 13:14,R_DdYXtljU0uvej17,,,,,39.95300293,-75.17559814,anonymous,EN,Chrome,61.0.3163.100,Windows NT 6.1,1440x900,28,16,english,right,female,woman,,heterosexual,,white,,6,4,4,5,2,3,5,2,5,4,5,4,2,2,4,7,7,"I've played ultimate frisbee in casual settings, but never on an organized team.,I've played recreationally (pickup, with friends, at camp).,I've played in learning settings (clinics, learning leagues),I've played in a casual recreational but organized league.,I've played in a competitive recreational league.,I've played on a college team.,I've played on a club team.",FPSL/Club,"Informally to teammates during timeouts or on the sidelines.,I've captained a recreational team.",Cutter,40 yards or more,20-40 yards,Cup,Definitely yes,Extremely comfortable,Extremely comfortable,Right,Forehand / Backhand,frizstudy9017,navstudy4017,,,person facing toward you for forehand vs back hand took me an second to think,the person facing toward me when the command is left or right,no,makes me think home/away force is easier to understand than backhand/forehand,17903529,41685255,1
+10/6/2017 17:08,10/6/2017 17:32,IP Address,72.33.2.162,100,1427,TRUE,10/6/2017 17:32,R_3esKkQ4fJq2K9St,,,,,43.07310486,-89.40119934,anonymous,EN,Chrome,61.0.3163.100,Windows NT 6.3,1440x960,30,16,english,right,male,man,,heterosexual,,white,,"7
+(Strongly Agree)
+",3,5,5,3,3,"7
+(Strongly Agree)
+","1
+(Strongly Disagree)
+",4,5,5,6,"1
+(Strongly Disagree)
+",5,"1
+(Strongly Disagree)
+",15,15,"I've played recreationally (pickup, with friends, at camp).,I've played in learning settings (clinics, learning leagues),I've played in a casual recreational but organized league.,I've played in a competitive recreational league.,I've played on a high school team.,I've played on a college team.,I've played on a club team.,I've played on a professional team.",Nationals level club/professional,"Informally to teammates during timeouts or on the sidelines.,I've captained a recreational team.,I've taught a clinic to players in middle school or younger.,I've taught a clinic to players in high school or above.,I coach a high school, college, club, or professional team.",Handler,40 yards or more,40 yards or more,Wing,Definitely yes,Extremely comfortable,Extremely comfortable,Right,Home / Away,,,navstudy4017,frizstudy9017,Sometimes I jumped the gun and hit the wrong arrow key,"I too often reoriented myself to the perspective of the figure when it was facing me, and pressed the arrow key that corresponded to the direction they should have gone, instead of the arrow key corresponding to the direction they should go from my perspective",,,74352318,2189950,2
+10/7/2017 14:12,10/7/2017 14:12,IP Address,73.188.249.33,100,0,TRUE,10/7/2017 14:12,R_24FZSRMOCfG0x5w,,,,,39.93589783,-75.15339661,anonymous,EN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10/7/2017 15:30,10/7/2017 15:30,IP Address,73.188.249.33,100,0,TRUE,10/7/2017 15:30,R_1QF7Iiu67eO6Mm5,,,,,39.93589783,-75.15339661,anonymous,EN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10/7/2017 15:58,10/7/2017 16:44,IP Address,173.59.63.206,100,2767,TRUE,10/7/2017 16:44,R_aarASk2zpVM3i25,,,,,39.94940186,-75.14569855,anonymous,EN,Chrome,61.0.3163.100,Windows NT 6.1,1366x768,26,17,english,right,male,man,,heterosexual,,asian,,"7
+(Strongly Agree)
+",2,5,"7
+(Strongly Agree)
+","7
+(Strongly Agree)
+","1
+(Strongly Disagree)
+",6,"1
+(Strongly Disagree)
+","7
+(Strongly Agree)
+","1
+(Strongly Disagree)
+",3,"1
+(Strongly Disagree)
+","1
+(Strongly Disagree)
+",5,"1
+(Strongly Disagree)
+",1,1,"I've played recreationally (pickup, with friends, at camp).,I've played in a competitive recreational league.",Fall League,"No, not really.",Cutter,20-40 yards,20-40 yards,Wing,Definitely yes,Extremely comfortable,Moderately comfortable,Right,Home / Away,frizstudy9017,navstudy4017,,,No,No,No,No,54395469,62228828,1
+10/19/2017 18:54,10/19/2017 18:54,IP Address,174.200.14.86,100,0,TRUE,10/19/2017 18:54,R_0HDCWDOs3WvcXOV,,,,,39.76150513,-75.12449646,anonymous,EN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10/19/2017 19:02,10/19/2017 19:02,IP Address,100.19.44.106,100,0,TRUE,10/19/2017 19:02,R_3iOOdFdhGtpWXUT,,,,,39.95300293,-75.17559814,anonymous,EN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10/19/2017 19:28,10/19/2017 19:28,IP Address,172.56.29.161,100,0,TRUE,10/19/2017 19:28,R_2P582iNbiaWbtVT,,,,,39.9611969,-82.99880219,anonymous,EN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10/19/2017 19:29,10/19/2017 19:29,IP Address,100.19.44.106,100,0,TRUE,10/19/2017 19:29,R_ahIDbZyvivy6xbj,,,,,39.95300293,-75.17559814,anonymous,EN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10/19/2017 19:34,10/19/2017 19:34,IP Address,66.87.81.223,100,0,TRUE,10/19/2017 19:34,R_1JCsWsrPD2sOJ4g,,,,,38.82650757,-77.08630371,anonymous,EN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10/19/2017 19:24,10/19/2017 19:50,IP Address,71.230.177.119,100,1614,TRUE,10/19/2017 19:50,R_3lPOvac6DmynjBW,,,,,39.99639893,-75.17089844,anonymous,EN,Firefox,56,Macintosh,1440x900,28,18,english,right,male,man,,heterosexual,,white,,6,"1
+(Strongly Disagree)
+","7
+(Strongly Agree)
+",6,2,2,"7
+(Strongly Agree)
+","1
+(Strongly Disagree)
+","7
+(Strongly Agree)
+",2,"1
+(Strongly Disagree)
+","1
+(Strongly Disagree)
+",2,6,2,10,10,"I've played in a casual recreational but organized league.,I've played in a competitive recreational league.,I've played on a college team.","I played at Carleton College on the Gods of Plastic. After graduating, I've played in competitive and casual recreational leagues in NYC and Philadelphia, including Manhattan Ultimate Disc and PADA. I am currently playing fall league with PADA.","Informally to teammates during timeouts or on the sidelines.,I've taught a clinic to players in middle school or younger.",Cutter,40 yards or more,40 yards or more,Cup,Definitely yes,Extremely comfortable,Extremely comfortable,Right,Forehand / Backhand,frizstudy9017,navstudy4017,,,No,No. I answered one question incorrectly early on.,No,No,16753163,90544723,1
+10/19/2017 19:55,10/19/2017 19:55,IP Address,172.56.29.229,100,0,TRUE,10/19/2017 19:55,R_3Jnp9VwY7mtJzIT,,,,,39.95429993,-75.16570282,anonymous,EN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10/19/2017 20:00,10/19/2017 20:00,IP Address,68.82.242.179,100,0,TRUE,10/19/2017 20:00,R_oXergaAjSP6Tdsd,,,,,39.95970154,-75.19680023,anonymous,EN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10/19/2017 20:07,10/19/2017 20:47,IP Address,76.124.0.243,100,2427,TRUE,10/19/2017 20:47,R_25L1c2VJlTFycGU,,,,,40.18429565,-75.21679688,anonymous,EN,Chrome,61.0.3163.100,Windows NT 10.0,1920x1080,58,19,english,right,male,man,,heterosexual,,white,,5,4,5,"7
+(Strongly Agree)
+",6,2,"7
+(Strongly Agree)
+",3,"7
+(Strongly Agree)
+",3,3,"1
+(Strongly Disagree)
+",2,6,2,20,20,"I've played ultimate frisbee in casual settings, but never on an organized team.,I've played recreationally (pickup, with friends, at camp).,I've played in learning settings (clinics, learning leagues),I've played in a casual recreational but organized league.,I've played in a competitive recreational league.,I've played on a college team.,I've played on a club team.",Fall League,"Informally to teammates during timeouts or on the sidelines.,I've captained a recreational team.",Cutter,10-20 yards,20-40 yards,Deep Deep,Definitely yes,Extremely comfortable,Extremely comfortable,Right,Forehand / Backhand,,,navstudy4017,frizstudy9017,when thrower was facing away from me,,,,60325105,67096388,2
+10/19/2017 23:03,10/19/2017 23:03,IP Address,69.249.186.227,100,0,TRUE,10/19/2017 23:03,R_9GHnv7LuQlkLax3,,,,,39.98280334,-75.17960358,anonymous,EN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10/20/2017 8:54,10/20/2017 9:41,IP Address,68.82.62.204,100,2829,TRUE,10/20/2017 9:41,R_qQSwlGBlm4OvJRv,,,,,40.0901947,-75.39369965,anonymous,EN,Chrome,61.0.3163.100,Windows NT 10.0,1920x1080,49,18,english,right,female,woman,,heterosexual,,white,,3,"1
+(Strongly Disagree)
+",5,2,"1
+(Strongly Disagree)
+",2,5,2,5,"7
+(Strongly Agree)
+",5,6,6,3,5,17,17,"I've played recreationally (pickup, with friends, at camp).,I've played in learning settings (clinics, learning leagues),I've played in a casual recreational but organized league.,I've played in a competitive recreational league.","FPSL, Fall Rec League","No, not really.",Both,40 yards or more,10-20 yards,Wing,Definitely yes,Extremely comfortable,Moderately uncomfortable,Right,Home / Away,,,navstudy4017,frizstudy9017,The home / away was easy unless I went to fast.  Determining Forehand - backhand when the figure was facing me was difficult.,No,No ,No,8812679,44376975,2
+10/20/2017 10:35,10/20/2017 10:35,IP Address,96.83.215.134,100,0,TRUE,10/20/2017 10:35,R_1i9gf5fbUWENKAz,,,,,40.11599731,-75.01380157,anonymous,EN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10/20/2017 12:00,10/20/2017 12:00,IP Address,174.201.22.16,100,0,TRUE,10/20/2017 12:00,R_2c56zESxREO4D9o,,,,,40.61520386,-75.54370117,anonymous,EN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10/20/2017 12:12,10/20/2017 12:12,IP Address,172.56.29.161,100,0,TRUE,10/20/2017 12:12,R_2xQ0VWBnNUYWX06,,,,,39.9611969,-82.99880219,anonymous,EN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10/20/2017 12:16,10/20/2017 12:36,IP Address,130.91.168.101,100,1174,TRUE,10/20/2017 12:36,R_3dH49s8NwAmfLoK,,,,,39.95970154,-75.19680023,anonymous,EN,Chrome,61.0.3163.100,Windows NT 6.1,1920x1200,30,16,english,right,male,man,,heterosexual,,white,,"7
+(Strongly Agree)
+",5,6,4,3,4,5,"1
+(Strongly Disagree)
+",5,3,2,2,4,4,2,12,9,"I've played ultimate frisbee in casual settings, but never on an organized team.,I've played recreationally (pickup, with friends, at camp).,I've played in a casual recreational but organized league.,I've played on a college team.",Mid-level PADA player (FPSL),"Informally to teammates during timeouts or on the sidelines.,I've captained a recreational team.",Handler,20-40 yards,40 yards or more,Deep Deep,Definitely yes,Extremely comfortable,Extremely comfortable,Right,Home / Away,frizstudy90177,navstudy4017,,,Not too difficult; better with home and away than flick and backhand.,"Okay, difficulty on home and away when the person was facing me; hesitant on more decisions (it felt like)",No,Nice work Steve!,65344809,6421150,1
+10/20/2017 12:36,10/20/2017 12:53,IP Address,108.4.242.144,100,1024,TRUE,10/20/2017 12:53,R_1ImxkRIgXaLW3wK,,,,,39.93589783,-75.15339661,anonymous,EN,Chrome,61.0.3163.100,Windows NT 6.1,1920x1080,27,16,english,not right,male,man,,heterosexual,,white,,5,5,2,4,3,4,5,4,5,4,4,5,2,3,4,9,8,"I've played recreationally (pickup, with friends, at camp).,I've played in a casual recreational but organized league.,I've played in a competitive recreational league.,I've played on a college team.,I've played on a club team.",non-elite club,I've captained a recreational team.,Both,40 yards or more,40 yards or more,Cup,Definitely yes,Extremely comfortable,Moderately comfortable,Left,Home / Away,,,navstudy4017,frizstudy9017,"there was too much repetition of questions (forehand, forehand, forehand, home, home, home)",all was fine,nope,,15578091,82427599,2
+10/21/2017 13:42,10/21/2017 14:01,IP Address,71.162.204.118,100,1156,TRUE,10/21/2017 14:01,R_ZvD40pWgFQgOb3X,,,,,39.99639893,-75.17089844,anonymous,EN,Chrome,60.0.3112.113,Macintosh,1280x800,33,20,english,right,male,man,,heterosexual,,white,,6,3,6,"7
+(Strongly Agree)
+",6,"1
+(Strongly Disagree)
+","7
+(Strongly Agree)
+",2,"7
+(Strongly Agree)
+",2,2,6,2,5,6,1,1,"I've played recreationally (pickup, with friends, at camp).,I've played in a casual recreational but organized league.,I've played in a competitive recreational league.",UHLE,"No, not really.",Cutter,20-40 yards,10-20 yards,Cup,Definitely yes,Moderately comfortable,Moderately comfortable,Right,Home / Away,,,navstudy4017,frizstudy9017,"Looking at side of disc/empty hand for forehand/backhand.  No, simple graphics were sufficient","Thinking about where the person would end up.  No, simple graphics worked well.",No,,62026655,64824344,2
+10/21/2017 14:03,10/21/2017 14:29,IP Address,71.162.204.118,100,1575,TRUE,10/21/2017 14:29,R_3kHgpVO5gbuSQlG,,,,,39.99639893,-75.17089844,anonymous,EN,Chrome,60.0.3112.113,Macintosh,1280x800,31,19,english,right,female,woman,,heterosexual,,white,,"7
+(Strongly Agree)
+",5,4,6,"7
+(Strongly Agree)
+",2,"7
+(Strongly Agree)
+",4,6,6,"1
+(Strongly Disagree)
+","1
+(Strongly Disagree)
+",2,5,2,1,1,"I've played recreationally (pickup, with friends, at camp).,I've played in learning settings (clinics, learning leagues),I've played in a casual recreational but organized league.",UHLE,"No, not really.",Cutter,10-20 yards,10-20 yards,Cup,Definitely yes,Extremely comfortable,Extremely comfortable,Right,Home / Away,,,navstudy4017,frizstudy9017,I know I got (at least) one wrong- not sure why but just clicked wrong button. ,imagining directions from perspective of someone looking at me is a little challenging,no,will you share the results with PADA when you're done?,79597991,55572456,2
+10/20/2017 9:58,10/20/2017 11:06,IP Address,50.73.206.125,84,4056,FALSE,10/27/2017 11:06,R_1ocIMahQar27vPD,,,,,,,anonymous,EN,Chrome,61.0.3163.100,Windows NT 6.1,1920x1080,25,17,english,right,female,woman,,heterosexual,,white,,3,5,4,6,6,3,5,3,5,5,3,2,3,4,6,2,2,"I've played recreationally (pickup, with friends, at camp).,I've played in a casual recreational but organized league.",FPSL,Informally to teammates during timeouts or on the sidelines.,Both,5-10 yards,5-10 yards,Cup,Definitely yes,Moderately comfortable,Slightly comfortable,Right,Home / Away,,,,,,,,,52223617,16542808,1
+11/15/2017 13:28,11/15/2017 13:28,IP Address,64.134.99.146,100,0,TRUE,11/15/2017 13:28,R_2AEcShWlM9DlCi2,,,,,37.75100708,-97.8219986,anonymous,EN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11/15/2017 13:34,11/15/2017 13:34,IP Address,165.123.180.5,100,0,TRUE,11/15/2017 13:34,R_22noBzJGOST5oIT,,,,,39.95970154,-75.19680023,anonymous,EN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11/15/2017 13:33,11/15/2017 13:50,IP Address,198.176.81.33,100,989,TRUE,11/15/2017 13:50,R_8CDJz2y9zYY3TFv,,,,,40.71110535,-73.94689941,anonymous,EN,Firefox,57,Windows NT 10.0,1366x768,23,17,english,right,male,man,,heterosexual,,asian,,6,3,5,5,"7
+(Strongly Agree)
+",3,4,3,5,3,4,4,3,6,2,8,5,"I've played recreationally (pickup, with friends, at camp).,I've played in a casual recreational but organized league.,I've played in a competitive recreational league.,I've played on a college team.",FPSL,Informally to teammates during timeouts or on the sidelines.,Both,40 yards or more,20-40 yards,Wing,Definitely yes,Extremely comfortable,Extremely comfortable,Right,Home / Away,frizstudy9017,navstudy4017,,,"Not really, some times due to the repetitiveness, I got confused",saying left and right when they were facing me was not super intutitive,No,,47560848,28057826,1
+11/15/2017 13:31,11/15/2017 13:59,IP Address,165.123.217.141,100,1648,TRUE,11/15/2017 13:59,R_3I3LxvdBQ6tPF3q,,,,,39.95970154,-75.19680023,anonymous,EN,Chrome,55.0.2883.87,Linux x86_64,1706x960,20,13,english,right,male,man,,heterosexual,,black/afri-amer,,5,6,6,6,"7
+(Strongly Agree)
+",2,5,2,4,3,2,"1
+(Strongly Disagree)
+",2,6,2,3,3,"I've played ultimate frisbee in casual settings, but never on an organized team.,I've played recreationally (pickup, with friends, at camp).,I've played in learning settings (clinics, learning leagues),I've played on a high school team.,I've played on a college team.",D1 college,"Informally to teammates during timeouts or on the sidelines.,I've taught a clinic to players in middle school or younger.,I've taught a clinic to players in high school or above.",Both,40 yards or more,40 yards or more,Deep Deep,Definitely yes,Extremely comfortable,Extremely comfortable,Right,Home / Away,,,navstudy4017,frizstudy9017,"no, just standard practice","yes, directions when the dude was on the other side was difficult",nope,differentiating home from away seemed much faster than forehand and backhand,38833485,58839785,2
+11/15/2017 13:34,11/15/2017 13:59,IP Address,76.124.119.115,100,1493,TRUE,11/15/2017 13:59,R_3m8E9yOBuS8mcl2,,,,,39.95970154,-75.19680023,anonymous,EN,Chrome,61.0.3163.100,Windows NT 10.0,1536x864,21,16,english,right,male,man,,heterosexual,,white,,5,2,5,3,6,2,"7
+(Strongly Agree)
+",3,6,6,3,"1
+(Strongly Disagree)
+",2,"1
+(Strongly Disagree)
+",3,4,4,"I've played recreationally (pickup, with friends, at camp).,I've played in a casual recreational but organized league.,I've played on a college team.","I've played on the A team for both Boston University and now UPenn. I've been an average handler on both teams. I feel pretty confident about reading the game, but have a poor flick throw and am not very athletic.",Informally to teammates during timeouts or on the sidelines.,Handler,40 yards or more,10-20 yards,Short Deep,Definitely yes,Extremely comfortable,Extremely comfortable,Right,Forehand / Backhand,,,navstudy4017,frizstudy9017,"If the direction was home or away I only looked at the sideline circles. If the direction was forehand or backhand, I only looked at the person with the disc.","It was definitely most difficult when the person was facing towards me and either right or left was the direction used. Home and away were always simple, as was left and right when the person was facing the same direction as me.",No,No,35859198,22363073,2
+11/15/2017 14:10,11/15/2017 14:10,IP Address,155.41.48.113,100,0,TRUE,11/15/2017 14:10,R_1dhjhRhY0Dc7AXw,,,,,42.34509277,-71.09929657,anonymous,EN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11/15/2017 13:51,11/15/2017 14:12,IP Address,67.205.246.131,100,1270,TRUE,11/15/2017 14:12,R_2PcEXTtWTGymMjL,,,,,40.01429749,-75.22669983,anonymous,EN,Chrome,61.0.3163.100,Macintosh,1280x800,19,13,english,right,male,man,,heterosexual,,white,,5,4,5,2,2,3,2,6,3,6,3,4,4,2,6,1,1,"I've played recreationally (pickup, with friends, at camp).,I've played on a college team.","Beginner, improving, but still just average player on Penn B team","No, not really.",Both,40 yards or more,20-40 yards,Cup,Definitely yes,Moderately uncomfortable,Extremely comfortable,Right,Forehand / Backhand,,,navstudy4017,frizstudy9017,"a little bit in the beginning, and also when the side of the person changed",mostly when the perspective changed,no,no,59902325,26044874,2
+11/15/2017 14:21,11/15/2017 14:21,IP Address,155.41.111.115,100,0,TRUE,11/15/2017 14:21,R_10xfh91hcmceh2k,,,,,42.34509277,-71.09929657,anonymous,EN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11/15/2017 14:10,11/15/2017 14:30,IP Address,24.91.136.32,100,1170,TRUE,11/15/2017 14:30,R_1eFddvaFIR6Yq0s,,,,,42.34309387,-71.1230011,anonymous,EN,Chrome,62.0.3202.94,Windows NT 10.0,1280x720,19,14,not english,right,male,man,,heterosexual,,asian,,6,4,3,5,3,"1
+(Strongly Disagree)
+",3,2,5,2,6,3,5,3,4,3,3,"I've played in a competitive recreational league.,I've played on a high school team.,I've played on a college team.","Division 1 College, Division 2/3 High School","Informally to teammates during timeouts or on the sidelines.,I've taught a clinic to players in middle school or younger.",Both,20-40 yards,40 yards or more,Wing,Definitely yes,Extremely comfortable,Extremely comfortable,Right,Forehand / Backhand,frizstudy9017,navstudy4017,,,no,no,no,no,14064910,40632896,1
+11/15/2017 14:09,11/15/2017 14:33,IP Address,165.123.230.189,100,1485,TRUE,11/15/2017 14:33,R_2fkzDQPRy5ClolA,,,,,39.95970154,-75.19680023,anonymous,EN,Safari,10.1.2,Macintosh,1440x900,18,12,english,right,male,man,,heterosexual,,white,,6,2,6,5,"1
+(Strongly Disagree)
+",3,5,2,4,2,5,2,4,3,3,3,3,"I've played on a high school team.,I've played on a college team.","High level D1 High School, PHUEL","Informally to teammates during timeouts or on the sidelines.,I've captained a recreational team.",Both,40 yards or more,40 yards or more,Cup,Definitely yes,Extremely comfortable,Extremely comfortable,Right,Home / Away,,,navstudy4017,frizstudy9017,No they were all straight forward,The opposite direction was more confusing,No,No,42100979,56594642,2
+11/15/2017 14:13,11/15/2017 14:35,IP Address,66.235.27.75,100,1261,TRUE,11/15/2017 14:35,R_3lGiQHvuJjnbNDx,,,,,47.58389282,-122.2994995,anonymous,EN,Chrome,61.0.3163.100,Macintosh,1440x900,22,16,english,not right,female,woman,,other,Queer,white,,3,2,4,6,2,3,5,2,5,2,4,2,2,5,2,8,8,I've played on a club team.,Regional Level Club,"No, not really.",Handler,40 yards or more,20-40 yards,Deep Deep,Definitely yes,Extremely comfortable,Extremely comfortable,Left,Home / Away,frizstudy9017,navstudy4017,,,Recognizing right hand flick and backhand (compared to my normal left),Right was left and left was right when facing you,no,no,11523224,24523564,1
+11/15/2017 14:38,11/15/2017 14:38,IP Address,23.24.9.33,100,0,TRUE,11/15/2017 14:38,R_2w0uHOkHvtA5lf4,,,,,40.0375061,-75.145401,anonymous,EN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11/15/2017 14:32,11/15/2017 14:51,IP Address,170.154.182.200,100,1133,TRUE,11/15/2017 14:51,R_3sjLo8huAXAXotj,,,,,42.34579468,-71.55059814,anonymous,EN,Firefox,40,Windows NT 6.1,1920x1080,27,16,english,right,male,man,,heterosexual,,white,,6,2,6,6,3,5,4,2,6,4,5,6,6,4,5,9,9,"I've played recreationally (pickup, with friends, at camp).,I've played in a casual recreational but organized league.,I've played in a competitive recreational league.,I've played on a college team.",BUDA,I've captained a recreational team.,Both,20-40 yards,20-40 yards,Short Deep,Definitely yes,Extremely comfortable,Extremely comfortable,Right,Forehand / Backhand,frizstudy9017,navstudy4017,,,I often use flick and not forehand,I think i may have messed up the directions going home and away whent the man was facing me.,No,No,10576472,3737334,1
+11/15/2017 14:36,11/15/2017 14:52,IP Address,18.79.1.3,100,929,TRUE,11/15/2017 14:52,R_31tomKvxNxsDPVX,,,,,42.36459351,-71.10279846,anonymous,EN,Chrome,62.0.3202.94,Macintosh,1920x1080,24,18,english,not right,male,man,,heterosexual,,white,,5,3,6,6,5,2,6,6,6,"7
+(Strongly Agree)
+",3,4,4,2,6,13,4,"I've played recreationally (pickup, with friends, at camp).,I've played in a casual recreational but organized league.,I've played on a college team.",Club,Informally to teammates during timeouts or on the sidelines.,Cutter,40 yards or more,40 yards or more,Cup,Definitely yes,Extremely comfortable,Extremely comfortable,Left,Home / Away,frizstudy9017,navstudy4017,,,Not realy,The home/away were harder when the person wasn't facing you.,NO,NO,88922824,38638936,1
+11/15/2017 14:24,11/15/2017 14:55,IP Address,168.122.208.28,100,1876,TRUE,11/15/2017 14:55,R_QhVfsQZFdH1VhPb,,,,,42.34509277,-71.09929657,anonymous,EN,Chrome,62.0.3202.94,Windows NT 10.0,1536x864,21,15,english,right,male,man,,heterosexual,,white,,6,4,3,6,2,3,3,4,6,2,3,3,3,6,2,4,4,"I've played recreationally (pickup, with friends, at camp).,I've played in a casual recreational but organized league.,I've played on a high school team.,I've played on a college team.",DI college team that can consistently make regionals but not make much noise once there,Informally to teammates during timeouts or on the sidelines.,Cutter,40 yards or more,20-40 yards,Wing,Definitely yes,Extremely comfortable,Extremely comfortable,Right,Forehand / Backhand,,,navstudy4017,frizstudy9017,"I visualized the direction the thrower would move to make the throw, or matched home and away visually. Fatigue was a bit difficult, as was visualizing something I hadn't had to in a little while when the thrower was facing a different direction than they had for a while.","When the person was facing away I matched left and right as expected; when facing toward, I matched opposites. No visualization involved in this task.",Nope,"This has been great procrastination from my studying, but it would've been more fun if I were actually playing ultimate.",37321852,55421948,2
+11/15/2017 14:45,11/15/2017 15:04,IP Address,155.41.122.192,100,1130,TRUE,11/15/2017 15:04,R_1CJ6jkflwrdBCB2,,,,,42.34509277,-71.09929657,anonymous,EN,Firefox,57,Macintosh,1280x800,19,15,english,right,male,man,,heterosexual,,white,,5,5,6,5,"1
+(Strongly Disagree)
+",3,5,2,5,3,3,4,3,6,6,5,5,"I've played in a casual recreational but organized league.,I've played in a competitive recreational league.,I've played on a high school team.,I've played on a college team.,I've played on a club team.",Mid level club,Informally to teammates during timeouts or on the sidelines.,Handler,40 yards or more,40 yards or more,Wing,Definitely yes,Extremely comfortable,Extremely comfortable,Right,Home / Away,,,navstudy4017,frizstudy9017,they were relatively easy,some of them took more thought than others,nope,the frisbee related ones were much easier and i feel i did far better on those,32233412,64490590,2
+11/15/2017 15:08,11/15/2017 15:08,IP Address,155.41.59.163,100,0,TRUE,11/15/2017 15:08,R_3EAPR1DWk5vV42a,,,,,42.34509277,-71.09929657,anonymous,EN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11/15/2017 15:02,11/15/2017 15:22,IP Address,155.41.96.95,100,1156,TRUE,11/15/2017 15:22,R_2ffIxDCkDtsWaha,,,,,42.34509277,-71.09929657,anonymous,EN,Firefox,56,Windows NT 10.0,1536x864,18,13,english,right,male,man,,heterosexual,,asian,,4,3,5,4,2,3,3,5,3,6,5,4,"7
+(Strongly Agree)
+","1
+(Strongly Disagree)
+",2,1,1,"I've played recreationally (pickup, with friends, at camp).,I've played in a competitive recreational league.",A good B team player in the Boston Area,Informally to teammates during timeouts or on the sidelines.,Handler,20-40 yards,20-40 yards,Cup,Definitely yes,Slightly comfortable,Extremely comfortable,Right,Forehand / Backhand,frizstudy9017,navstudy4017,,,"ok, got better as it went","ok, got better as it went",bored by the time i got to the road intersection task,,57792262,91021895,1
+11/15/2017 15:23,11/15/2017 15:23,IP Address,5.151.0.118,100,0,TRUE,11/15/2017 15:23,R_1eY6AJvtjRVdyk6,,,,,53.36669922,-1.5,anonymous,EN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11/15/2017 16:20,11/15/2017 16:20,IP Address,174.192.31.229,100,0,TRUE,11/15/2017 16:20,R_3s66gXFWi5jL9Ok,,,,,42.32269287,-71.08470154,anonymous,EN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11/15/2017 15:57,11/15/2017 16:20,IP Address,158.130.199.55,100,1365,TRUE,11/15/2017 16:20,R_2zoM82S9omhHqui,,,,,39.95970154,-75.19680023,anonymous,EN,Chrome,61.0.3163.100,Macintosh,1280x800,19,13,english,right,male,man,,heterosexual,,white,,6,4,5,6,4,5,4,2,6,"1
+(Strongly Disagree)
+",4,2,3,5,3,2,2,"I've played recreationally (pickup, with friends, at camp).,I've played on a high school team.,I've played on a college team.,I've played on a club team.",good college ultimate,"Informally to teammates during timeouts or on the sidelines.,I've taught a clinic to players in middle school or younger.",Cutter,40 yards or more,40 yards or more,Deep Deep,Definitely yes,Extremely comfortable,Extremely comfortable,Right,Forehand / Backhand,,,navstudy4017,frizstudy9017,I usually looked at the disc and thought about how I would have thrown a forehand or a backhand. ,I had to think about how the person would wave with that hand.,Nope,A very interesting phenomenon. I thought backhand and forehand were easier but really home and away from before. ,58218292,32670019,2
+11/15/2017 16:00,11/15/2017 16:21,IP Address,165.123.213.65,100,1243,TRUE,11/15/2017 16:21,R_2znD4yl5vkuu0uW,,,,,39.95970154,-75.19680023,anonymous,EN,Chrome,61.0.3163.100,Windows NT 10.0,1536x864,19,13,not english,not right,male,man,,heterosexual,,asian,,5,4,5,5,4,4,3,2,5,5,4,2,5,5,2,4,4,"I've played ultimate frisbee in casual settings, but never on an organized team.,I've played recreationally (pickup, with friends, at camp).,I've played in a casual recreational but organized league.,I've played in a competitive recreational league.,I've played on a high school team.,I've played on a college team.",3rd worst guy on a FPSL team,"No, not really.",Both,40 yards or more,40 yards or more,Wing,Definitely yes,Extremely comfortable,Extremely comfortable,Right,Home / Away,frizstudy9017,navstudy4017,,,Looked at what hand the disc was in if flick/backhand. Looked at bags for home/away. Fairly easy,"When facing forward, it seemed straight forward. Facing toward me it was confusing until I realized it was just opposite.",No,No,83146145,63506070,1
+11/15/2017 15:57,11/15/2017 16:22,IP Address,128.197.128.204,100,1515,TRUE,11/15/2017 16:22,R_OyarAoWWXtrBoKB,,,,,42.34509277,-71.09929657,anonymous,EN,Chrome,61.0.3163.100,Linux x86_64,1920x1080,26,18,english,right,male,man,,heterosexual,,white,,5,6,"7
+(Strongly Agree)
+",3,"7
+(Strongly Agree)
+",5,6,2,6,6,5,5,2,"1
+(Strongly Disagree)
+",6,5,5,"I've played ultimate frisbee in casual settings, but never on an organized team.,I've played recreationally (pickup, with friends, at camp).,I've played in a casual recreational but organized league.,I've played in a competitive recreational league.,I've played on a college team.",D-line at a good college or poor club,"No, not really.",Cutter,40 yards or more,40 yards or more,Short Deep,Definitely yes,Extremely comfortable,Extremely comfortable,Right,Home / Away,,,navstudy4017,frizstudy9017,"because forehand/backhand is usually called while on defense, it was hard when the figure was looking away from me.",home/away when looking at me. Couldn't get the rules right.,no,friz,12687043,68116738,2
+11/15/2017 16:21,11/15/2017 16:39,IP Address,70.110.19.16,100,1075,TRUE,11/15/2017 16:39,R_2YmiOwSWSX4ghyN,,,,,38.90570068,-76.978302,anonymous,EN,Chrome,62.0.3202.89,Windows NT 10.0,1920x1080,32,18,english,right,male,man,,heterosexual,,"hisp,white",,6,3,3,5,6,2,5,"1
+(Strongly Disagree)
+",6,3,4,"1
+(Strongly Disagree)
+",2,4,"1
+(Strongly Disagree)
+",14,11,"I've played recreationally (pickup, with friends, at camp).,I've played in a competitive recreational league.,I've played on a college team.,I've played on a club team.",Regionals level club team,"I coach a high school, college, club, or professional team.",Both,20-40 yards,40 yards or more,Wing,Definitely yes,Extremely comfortable,Extremely comfortable,Right,Home / Away,,,navstudy4017,frizstudy9017,"Regardless of force lingo or direction, felt like the perspective was still stationary",Felt like the directional arrows were backwards and perspective kept changing,No,"In my experience, ultimate players are intelligent people with really low sports IQs with some exceptions",63699797,58799837,2
+11/15/2017 16:21,11/15/2017 16:42,IP Address,165.123.202.151,100,1257,TRUE,11/15/2017 16:42,R_33ssUtwpHEnr9Uu,,,,,39.95970154,-75.19680023,anonymous,EN,Chrome,61.0.3163.100,Windows NT 10.0,1366x768,18,12,english,right,male,man,,heterosexual,,white,,6,2,5,"7
+(Strongly Agree)
+",4,4,"1
+(Strongly Disagree)
+",2,5,2,3,2,4,4,2,1,0,"I've played recreationally (pickup, with friends, at camp).,I've played on a college team.,I've played on a club team.","Club level, played in a few tournaments and faired decently well.  Placed on the B team on our college club team.","No, not really.",Cutter,20-40 yards,10-20 yards,Cup,Definitely yes,Moderately comfortable,Extremely comfortable,Right,Forehand / Backhand,,,navstudy4017,frizstudy9017,The ultimate frisbee task questions were fairly simple to answer,I found it difficult at first to understand if the direction were telling me which way the person would move from my perspective or from their perspective.,No technical difficulties,"Once I grasped the concept of which direction I was supposed to put, it became more routine than intuition.",98946092,56499208,2
+11/15/2017 15:26,11/15/2017 20:49,IP Address,173.70.191.172,100,19414,TRUE,11/15/2017 20:49,R_1GZ97gz7AmedzUc,,,,,40.78709412,-74.32910156,anonymous,EN,Chrome,61.0.3163.100,Windows NT 10.0,1366x768,28,16,english,right,female,woman,,heterosexual,,white,,5,3,6,2,"1
+(Strongly Disagree)
+",5,4,"1
+(Strongly Disagree)
+",5,"7
+(Strongly Agree)
+",6,4,6,3,5,10,10,"I've played recreationally (pickup, with friends, at camp).,I've played in a casual recreational but organized league.,I've played in a competitive recreational league.,I've played on a college team.,I've played on a club team.",a not very competitive club team,"No, not really.",Handler,40 yards or more,20-40 yards,Wing,Definitely yes,Extremely comfortable,Extremely comfortable,Right,Home / Away,frizstudy9017,navstudy4017,,,Put myself as the mark,Hard to think left vs right when I was the person facing me,no,no,76533358,3880734,1

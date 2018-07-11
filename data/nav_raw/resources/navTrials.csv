@@ -1,0 +1,17 @@
+stim,prompt,answer
+navFarLeft.jpg,Go home.,left
+navFarRight.jpg,Go home.,right
+navNearLeft.jpg,Go home.,left
+navNearRight.jpg,Go home.,right
+navFarLeft.jpg,Go away. ,right
+navFarRight.jpg,Go away. ,left
+navNearLeft.jpg,Go away. ,right
+navNearRight.jpg,Go away. ,left
+navFarLeft.jpg,Go left. ,right
+navFarRight.jpg,Go left. ,right
+navNearLeft.jpg,Go left. ,left
+navNearRight.jpg,Go left. ,left
+navFarLeft.jpg,Go right. ,left
+navFarRight.jpg,Go right. ,left
+navNearLeft.jpg,Go right. ,right
+navNearRight.jpg,Go right. ,right

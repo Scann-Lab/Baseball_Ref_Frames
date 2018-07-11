@@ -1,0 +1,17 @@
+stim,prompt,answer
+frizFarLeft.jpg,The force is forehand.,left
+frizFarRight.jpg,The force is forehand.,left
+frizNearLeft.jpg,The force is forehand.,right
+frizNearRight.jpg,The force is forehand.,right
+frizFarLeft.jpg,The force is backhand.,right
+frizFarRight.jpg,The force is backhand.,right
+frizNearLeft.jpg,The force is backhand.,left
+frizNearRight.jpg,The force is backhand.,left
+frizFarLeft.jpg,The force is home.,left
+frizFarRight.jpg,The force is home.,right
+frizNearLeft.jpg,The force is home.,left
+frizNearRight.jpg,The force is home.,right
+frizFarLeft.jpg,The force is away.,right
+frizFarRight.jpg,The force is away.,left
+frizNearLeft.jpg,The force is away.,right
+frizNearRight.jpg,The force is away.,left
