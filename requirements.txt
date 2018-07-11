@@ -3,4 +3,4 @@ matplotlib
 seaborn
 pandas
 scipy
-statsmodels.api
+statsmodels
