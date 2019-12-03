@@ -1,2 +1,2 @@
-# Ultimate
-Code for ultimate reference frames project
+# Baseball Reference Frames
+Code for baseball reference frames project
